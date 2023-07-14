@@ -8,7 +8,7 @@
 </head>
 
 <body style="font-family:poppins;">
-   
+   hi
     <?php
     include 'component/navbar-main.php';
     ?>
