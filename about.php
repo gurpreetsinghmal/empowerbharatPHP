@@ -14,8 +14,6 @@
     ?>
 
  <?php 
-
-
 include 'component/footer.php';
 ?>
 

@@ -57,3 +57,6 @@
      <div class="p-5 bg-gray-300 text-center">
         Copyright 2023, Empower Bharat Training Ltd. | All rights reserved | Terms & conditions
     </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.7.0/flowbite.min.js"></script>
+

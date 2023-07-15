@@ -10,11 +10,11 @@
 <body style="font-family:poppins;">
    
     <?php
-    include 'component/navbar-main.php';
+    include 'component/navbar-home.php';
     ?>
 
     <!-- slider -->
-    <div id="default-carousel" class="relative w-full" data-carousel="slide">
+    <div id="default-carousel" class="relative w-full z-30" data-carousel="slide">
         <!-- Carousel wrapper -->
         <div class="relative h-56 overflow-hidden md:h-[850px]">
             <!-- Item 1 -->
@@ -691,8 +691,6 @@
     ?>
 
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.7.0/flowbite.min.js"></script>
 
 
 </body>
