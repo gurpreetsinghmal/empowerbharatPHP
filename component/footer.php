@@ -1,6 +1,8 @@
   <!-- stripe -->
    <div class="p-4 bg-green-800 text-white text-center">
-        For more information about Empower Bharat, please go through our Brochure
+       <a target="_blank" href="https://drive.google.com/file/d/1Xp-PJsVtK7eiU8Y6HhiMek20viEvHw0P/view">
+       For more information about Empower Bharat, please go through our Brochure >
+       </a> 
     </div>
 
   <!--Quick Link -->
@@ -17,7 +19,7 @@
 
             <div class="mb-6 md:flex mb-8 w-full gap-3 ">
                 <div class="md:w-1/3 w-full flex justify-center">
-                    <img src="images/logo.png" class="h-16" />
+                    <img src="images/logo.png" class="h-12" />
                 </div>
                 <div class="w-full text-center md:grid grid-cols-3 gap-3">
 

@@ -15,7 +15,7 @@
     ?>
 
     <!-- slider -->
-    <div class="h-full w-screen md:rounded-br-[400px] rounded-br-[100px] flex items-center bg-green-100 md:h-[850px]">
+    <div class="h-full md:rounded-br-[400px] rounded-br-[100px] flex items-center bg-green-100 md:h-[850px]">
         <div class="container mx-auto p-4 my-6">
       
         <div class="flex items-center w-full">
