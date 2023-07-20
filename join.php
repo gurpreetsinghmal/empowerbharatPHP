@@ -52,7 +52,7 @@
             <img class="w-1/2 mx-auto" src="images/work/partner icon.png ">
         </div>
         <div class="w-full">
-            <div class="text-2xl font-bold text-green-800">Partner with us. Let’s together and create something
+            <div class="text-2xl font-bold text-green-800 my-2">Partner with us. Let’s together and create something
                 meaningful!</div>
             <div class="tracking-wider mb-2 leading-loose">Empower Bharat-” An Initiative to Revive Rural India '',
                 launched on India’s 75th Independence Day
@@ -89,7 +89,7 @@
             <img class="w-1/2 mx-auto" src="images/work/sponsor icon.png ">
         </div>
         <div class="w-full">
-            <div class="text-2xl font-bold text-green-800">Partner with us. Let’s together and create something
+            <div class="text-2xl font-bold text-green-800 my-2">Partner with us. Let’s together and create something
                 meaningful!</div>
             <div class="tracking-wider mb-2 leading-loose">Empower Bharat-” An Initiative to Revive Rural India '',
                 launched on India’s 75th Independence Day
@@ -125,7 +125,7 @@
             <img class="w-1/2 mx-auto" src="images/work/employee icon.png ">
         </div>
         <div class="w-full">
-            <div class="text-2xl font-bold text-green-800">Partner with us. Let’s together and create something
+            <div class="text-2xl font-bold text-green-800 my-2">Partner with us. Let’s together and create something
                 meaningful!</div>
             <div class="tracking-wider mb-2 leading-loose">Empower Bharat-” An Initiative to Revive Rural India '',
                 launched on India’s 75th Independence Day
@@ -161,7 +161,7 @@
             <img class="w-1/2 mx-auto" src="images/work/intern icon.png ">
         </div>
         <div class="w-full">
-            <div class="text-2xl font-bold text-green-800">Partner with us. Let’s together and create something
+            <div class="text-2xl font-bold text-green-800 my-2">Partner with us. Let’s together and create something
                 meaningful!</div>
             <div class="tracking-wider mb-2 leading-loose">Empower Bharat-” An Initiative to Revive Rural India '',
                 launched on India’s 75th Independence Day

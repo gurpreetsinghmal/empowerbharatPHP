@@ -2,11 +2,13 @@
  <div>
         <div class="container mx-auto p-4 my-6">
             <div class="mb-5">
-                <div class="text-4xl tracking-wider">Contact Us</div>
-                <div class="flex w-56">
-                    <span class="h-1 w-1/3" style="background:#255F4C;"></span>
-                    <span class="h-1 w-1/3" style="background: #7AC3A3;"></span>
-                    <span class="h-1 w-1/3" style="background: #FCDF7D;"></span>
+            <div class="text-4xl md:text-left text-center tracking-wider">Contact Us</div>
+                <div class="flex md:justify-start justify-center ">
+                    <div class="flex w-60">
+                        <span class="h-1 w-1/3" style="background:#255F4C;"></span>
+                        <span class="h-1 w-1/3" style="background: #7AC3A3;"></span>
+                        <span class="h-1 w-1/3" style="background: #FCDF7D;"></span>
+                    </div>
                 </div>
             </div>
 

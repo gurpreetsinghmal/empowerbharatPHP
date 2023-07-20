@@ -23,17 +23,15 @@
     <div>
         <div class="container mx-auto p-4 my-3">
             <div class="mb-3">
-                <div class="w-60 mx-auto">
-                    <div class="text-4xl w-72 text-center">Content Team</div>
-                    <div class="flex w-72">
-                        <span class="h-1 w-1/3" style="background:#255F4C;"></span>
-                        <span class="h-1 w-1/3" style="background: #7AC3A3;"></span>
-                        <span class="h-1 w-1/3" style="background: #FCDF7D;"></span>
-                    </div>
+                <div class="text-4xl mx-auto  mb-2 text-center">Content Team</div>
+                <div class="flex w-64 mx-auto">
+                    <span class="h-1 w-1/3" style="background:#255F4C;"></span>
+                    <span class="h-1 w-1/3" style="background: #7AC3A3;"></span>
+                    <span class="h-1 w-1/3" style="background: #FCDF7D;"></span>
                 </div>
             </div>
-            <div class="md:flex w-full mb-3">
-                <div class="md:w-1/3  p-4 md:flex flex-col justify-center ">
+            <div class="grid md:grid-cols-3 grid-cols-2 w-full mb-3">
+                <div class="   p-4 md:flex flex-col justify-center ">
                     <div class="w-full mb-2 flex justify-center">
                         <img class="w-32 h-32 hover:ring-4 ease-in duration-300  ring-green-800 rounded-full" src="images/work/jobuwant.png" />
                     </div>
@@ -59,7 +57,7 @@
 
                 </div>
 
-                <div class="md:w-1/3  p-4 md:flex flex-col justify-center ">
+                <div class="  p-4 md:flex flex-col justify-center ">
                     <div class="w-full mb-2 flex justify-center">
                         <img class="w-32 h-32 hover:ring-4 ease-in duration-300  ring-green-800 rounded-full" src="images/work/jobuwant.png" />
                     </div>
@@ -85,7 +83,7 @@
 
                 </div>
 
-                <div class="md:w-1/3  p-4 md:flex flex-col justify-center ">
+                <div class="  p-4 md:flex flex-col justify-center ">
                     <div class="w-full mb-2 flex justify-center">
                         <img class="w-32 h-32 hover:ring-4 ease-in duration-300  ring-green-800 rounded-full" src="images/work/jobuwant.png" />
                     </div>
@@ -118,18 +116,16 @@
      <!-- design team -->
      <div>
         <div class="container mx-auto p-4 my-3">
-            <div class="mb-6">
-                <div class="w-60 mx-auto">
-                    <div class="text-4xl w-72 mb-2 text-center">Design Team</div>
-                    <div class="flex w-72">
-                        <span class="h-1 w-1/3" style="background:#255F4C;"></span>
-                        <span class="h-1 w-1/3" style="background: #7AC3A3;"></span>
-                        <span class="h-1 w-1/3" style="background: #FCDF7D;"></span>
-                    </div>
+         <div class="mb-3">
+                <div class="text-4xl mx-auto  mb-2 text-center">Design Team</div>
+                <div class="flex w-64 mx-auto">
+                    <span class="h-1 w-1/3" style="background:#255F4C;"></span>
+                    <span class="h-1 w-1/3" style="background: #7AC3A3;"></span>
+                    <span class="h-1 w-1/3" style="background: #FCDF7D;"></span>
                 </div>
             </div>
-             <div class="md:flex w-full mb-3">
-                <div class="md:w-1/3  p-4 md:flex flex-col justify-center ">
+             <div class="grid md:grid-cols-3 grid-cols-2 w-full mb-3">
+                <div class="p-4 md:flex flex-col justify-center ">
                     <div class="w-full mb-2 flex justify-center">
                         <img class="w-32 h-32 hover:ring-4 ease-in duration-300  ring-green-800 rounded-full" src="images/work/jobuwant.png" />
                     </div>
@@ -155,7 +151,7 @@
 
                 </div>
 
-                <div class="md:w-1/3  p-4 md:flex flex-col justify-center ">
+                <div class="p-4 md:flex flex-col justify-center ">
                     <div class="w-full mb-2 flex justify-center">
                         <img class="w-32 h-32 hover:ring-4 ease-in duration-300  ring-green-800 rounded-full" src="images/work/jobuwant.png" />
                     </div>
@@ -181,7 +177,7 @@
 
                 </div>
                 
-                <div class="md:w-1/3  p-4 md:flex flex-col justify-center ">
+                <div class="p-4 md:flex flex-col justify-center ">
                     <div class="w-full mb-2 flex justify-center">
                         <img class="w-32 h-32 hover:ring-4 ease-in duration-300  ring-green-800 rounded-full" src="images/work/jobuwant.png" />
                     </div>
