@@ -188,10 +188,7 @@
                                  document.querySelector("#subm").innerHTML = "Send Query";
                                  document.querySelector("#msg").innerHTML = obj.msg;
 
-
-
-
-
+                                 
                                  document.querySelector("#name").value = "";
                                  document.querySelector("#phone").value = "";
                                  document.querySelector("#email").value = "";
