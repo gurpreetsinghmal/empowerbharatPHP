@@ -151,7 +151,7 @@
 
                  </form>
                  <h1 id="msg" class="p-2 rounded-lg text-center"></h1>
-                 
+
                  <script>
                      let form = document.querySelector("form");
                      // The document.querySelector() method returns the first element that matches a specified CSS selector.
@@ -192,11 +192,11 @@
 
 
 
-                                 // document.querySelector("#name").value = "";
-                                 // document.querySelector("#phone").value = "";
-                                 // document.querySelector("#email").value = "";
-                                 // document.querySelector("#title").value = "";
-                                 // document.querySelector("#message").value = "";
+                                 document.querySelector("#name").value = "";
+                                 document.querySelector("#phone").value = "";
+                                 document.querySelector("#email").value = "";
+                                 document.querySelector("#title").value = "";
+                                 document.querySelector("#message").value = "";
 
                                  // Change the value of the submit button back to "Submit" after the form has been submitted.
                              });
