@@ -98,7 +98,7 @@
         </div>
         <div class="md:flex w-full">
             <div class="md:w-1/3 w-1/2  mx-auto flex items-center py-12 border border-2 border-gray-300 rounded-lg m-2 p-6">
-                <img class="md:w-1/2  mx-auto" src="images/work/employee icon.png ">
+                <img class="md:w-1/2  mx-auto" src="images/about/vision.png">
             </div>
             <div class="w-full bg-green-800 m-2 py-12 rounded-lg md:flex items-center">
                 
@@ -117,7 +117,7 @@
         
         <div class="md:flex w-full flex-row-reverse">
             <div class="w-1/3 mx-auto flex items-center py-12 border border-2 border-gray-300 rounded-lg m-2 p-6">
-                <img class="md:w-1/2  mx-auto" src="images/work/employee icon.png ">
+                <img class="md:w-1/2 mx-auto" src="images/about/mission.png">
             </div>
             <div class="w-full border-2 border-gray-100 bg-white shadow-lg drop-shadow-lg m-2 p-4 rounded-lg md:flex items-center">
                 <div class="leading-relaxed md:w-1/3 py-6 md:py-12 text-2xl md:text-4xl md:border-r-2 border-green-800">
@@ -268,8 +268,8 @@
        
             <div class="md:flex w-full mb-6">
                 <div class="md:w-2/3 mx-auto flex-col md:flex-row items-center justify-evenly flex justify-center ">
-                    <img class="w-1/4" src="images/partner/nss_iitr_logo new.png" />
-                    <img class="w-1/4" src="images/partner/nss_iitr_logo new.png" />
+                    <img class="w-1/2 m-2" src="images/about/nss eb training partner.png" />
+                    <img class="w-1/2 m-2" src="images/about/nss stree women empowerment.png" />
                 </div>
 
 
