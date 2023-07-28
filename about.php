@@ -193,7 +193,7 @@
                                 <div class="h-36">
                                     <div class="bg-white h-full p-4 mx-16 rounded-lg">
                                         <div class="flex justify-between h-full items-center">
-                                            <img class="h-6 md:h-16 " src="images/partner/Technomind Logo.jpg" />
+                                            <img class="h-6 md:h-16 " src="images/partner/Technomind logo.jpg" />
                                             <img class="h-6 md:h-16 " src="images/partner/nss_iitr_logo new.png" />
                                             <img class="h-6 md:h-16 " src="images/partner/Shishti Anant Logo.png" />
                                          </div>
