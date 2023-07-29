@@ -73,7 +73,7 @@
 
     <!-- about us -->
     <div>
-        <div class="container mx-auto p-4 my-6">
+        <div class="container mx-auto p-4 mt-6">
             <div class="mb-5 w-full">
                 <div class="text-4xl md:text-left text-center tracking-wider">About Us</div>
                 <div class="flex md:justify-start justify-center ">
@@ -85,8 +85,11 @@
                 </div>
 
             </div>
-            <div class="flex md:flex-row flex-col-reverse  w-full mb-6">
-                <div id="expandableContent" class="mb-2 transition-all duration-300 md:w-1/3 h-64 overflow-hidden leading-loose text-justify">
+            <div class="flex md:flex-row flex-col-reverse text-xl w-full mb-6">
+                <div id="expandableContent" class="mb-2 transition-all duration-300  leading-loose text-justify">
+                    <iframe class="float-right ml-8 mt-3 w-full h-72 md:w-1/3 md:h-[300px] border border-gray-200 rounded-lg " src="https://www.youtube.com/embed/ryFybCODyyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen>
+
+                    </iframe>
                     An Initiative to Revive Rural India '', launched on India’s 75th Independence Day with the vision to bridge the Rural-Urban economic divide at the grass-root level by providing quality education for children and generating employment for struggling youth to make them self-reliant.
 
                     Our model is designed to address the key underlying problems of development through a practical and sustainable process. Poor quality education for young kids would be tackled by providing e-tutorial apps and books and setting up Smart and Unique learning centers in small towns and villages.
@@ -96,44 +99,25 @@
                     Lastly, we envisage a safe and independent environment for women through safety training, skill development workshops, and most importantly, through our one-of-a-kind STREE Podcast.
 
                     With Empower Bharat, we strive to make a unified, empowered India a reality.
+                 
                 </div>
 
-                <div class="md:w-1/2 w-full md:flex justify-end md:ml-20 ">
+                <!-- <div class="md:w-1/2 w-full md:flex justify-end md:ml-20 ">
 
                     <iframe class="w-full my-2 md:h-72 max-w-full border border-gray-200 rounded-lg dark:border-gray-700" src="https://www.youtube.com/embed/ryFybCODyyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen>
 
                     </iframe>
-                </div>
+                </div> -->
 
             </div>
-            <div class="flex  justify-center md:justify-start">
-                <button id="toggleButton" class="p-3 px-5 cursor-pointer bg-green-800 text-white md:rounded-[15px] rounded-full">Read more ></button>
-
-
-                <script>
-                    document.getElementById('toggleButton').addEventListener('click', function() {
-                        var expandableContent = document.getElementById('expandableContent');
-                        if (expandableContent.classList.contains('h-64')) {
-                            expandableContent.classList.remove('h-64');
-                            expandableContent.classList.add('h-auto');
-                            document.getElementById('toggleButton').textContent = 'Hide >';
-                        } else {
-                            expandableContent.classList.remove('h-auto');
-                            expandableContent.classList.add('h-64');
-                            document.getElementById('toggleButton').textContent = 'Read more >';
-                        }
-                    });
-                </script>
-            </div>
-
-
+           
         </div>
 
     </div>
 
     <!-- did you know -->
     <div>
-        <div class="container mx-auto p-4 my-6">
+        <div class="container mx-auto p-4">
             <div class="mb-5">
             <div class="text-4xl md:text-left text-center tracking-wider">Did You Know</div>
                 <div class="flex md:justify-start justify-center ">
@@ -178,10 +162,10 @@
                         <div class="mt-6  flex justify-center items-center">
                             <img class="h-40" src="images/work/sutra.png" />
                         </div>
-                        <div class="uppercase text-center my-4 font-bold text-lg text-green-800">
+                        <div class="uppercase text-center my-4 font-bold text-2xl text-green-800">
                             SUTRA
                         </div>
-                        <div class="text-center font-light text-gray-500 p-4 mb-6">
+                        <div class="text-center text-xl font-light text-gray-500 p-4 mb-6">
                             With Smart and Unique Teaching in Rural Areas (SUTRA), our team plans to bridge the gap.
                         </div>
                         <div class="text-green-800 text-center p-4 font-bold">
@@ -193,10 +177,10 @@
                             <img class="h-40" src="images/work/jobuwant.png" />
 
                         </div>
-                        <div class="uppercase text-center my-4 font-bold text-lg text-green-800">
+                        <div class="uppercase text-center my-4 font-bold text-2xl text-green-800">
                             JOB U WANT
                         </div>
-                        <div class="text-center font-light text-gray-500 p-4 mb-6">
+                        <div class="text-center text-xl font-light text-gray-500 p-4 mb-6">
                             A curated one-stop platform for youth to keep them posted with free alerts of all the jobs.
                         </div>
                         <div class="text-green-800 text-center p-4 font-bold">
@@ -208,10 +192,10 @@
                         <div class="mt-6  flex justify-center items-center">
                             <img class="h-40 " src="images/work/streesafety.png" />
                         </div>
-                        <div class="uppercase text-center my-4 font-bold text-lg text-green-800">
+                        <div class="uppercase text-center my-4 font-bold text-2xl text-green-800">
                             STREE Safety
                         </div>
-                        <div class="text-center font-light text-gray-500 p-4 mb-6">
+                        <div class="text-center text-xl font-light text-gray-500 p-4 mb-6">
                             To promote self-dependance initiated STREE - Safety Training for Rural Equality and
                             Empowerment
                         </div>
@@ -252,7 +236,7 @@
                             <img src="images/join/Sponsers.jpg" class="h-36 md:h-48 md:w-48" />
 
                         </div>
-                        <div class="bg-green-800 w-full p-2 text-white text-center font-bold">
+                        <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
                             <a href="#" class="tracking-widest uppercase">Sponsers</a>
                         </div>
                     </div>
@@ -261,7 +245,7 @@
                             <img src="images/join/partner.jpg" class="h-36 md:h-48 md:w-48" />
 
                         </div>
-                        <div class="bg-green-800 w-full p-2 text-white text-center font-bold">
+                        <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
                             <a href="#" class="tracking-widest uppercase">Partners</a>
                         </div>
                     </div>
@@ -270,7 +254,7 @@
                             <img src="images/join/employee.jpg" class="h-36 md:h-48 md:w-48" />
 
                         </div>
-                        <div class="bg-green-800 w-full p-2 text-white text-center font-bold">
+                        <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
                             <a href="#" class="tracking-widest uppercase">Employee</a>
                         </div>
                     </div>
@@ -279,7 +263,7 @@
                             <img src="images/join/intern.jpg" class="h-36 md:h-48 md:w-48" />
 
                         </div>
-                        <div class="bg-green-800 w-full p-2 text-white text-center font-bold">
+                        <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
                             <a href="#" class="tracking-widest uppercase">Intern</a>
                         </div>
                     </div>
@@ -310,7 +294,7 @@
                 </div>
             </div>
 
-            <div class="tracking-widest w-4/5 mb-6 md:text-left text-center mx-auto text-green-800 font-bold md:text-base text-xl">
+            <div class="tracking-widest w-4/5 mb-6 md:text-left text-center mx-auto text-green-800 font-bold md:text-2xl text-xl">
                 WHAT THEY SAY ABOUT US
             </div>
 
@@ -323,10 +307,10 @@
                         <div class="hidden duration-700 md:p-12 p-4 ease-in-out" data-carousel-item>
                             <div class="">
                                 <div class="h-24">
-                                    <div class="bg-white p-4 mx-12 rounded-lg">
+                                    <div class="bg-white p-2 md:p-4 mx-12 rounded-lg">
                                         <div class="flex ">
                                             <div class="flex item-start">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8   md:p-2 w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -351,13 +335,13 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-xs md:text-lg md:h-40 flex items-center p-1">
+                                            <div class="md:leading-loose  text-xs  md:text-xl md:h-40 flex items-center p-1 text-justify">
                                                 I am grateful to Empower Bharat for giving me the opportunity and choosing me to work. Empower Bharat gave me my first job internship and introduced me to the working world. I was a little nervous because it was my first experience working remotely for an internship, but the encouraging environment made everything easier.
 
                                             </div>
 
                                             <div class="flex items-end">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8  md:p-2  md:h-8 w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -391,7 +375,7 @@
                                         <div>
                                             <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Muzamil Naik.jpg" />
                                         </div>
-                                        <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
+                                        <div class="text-white text-xs md:text-xl ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">Muzamil Naik
                                             </div>
                                             <div>Book Content Writer,</div>
@@ -408,7 +392,7 @@
                                     <div class="bg-white p-4 mx-12 rounded-lg">
                                         <div class="flex ">
                                             <div class="flex item-start">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -433,13 +417,13 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-xs md:text-lg md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
                                                 मेरा हमेशा से यह मानना रहा है कि गांवों की बेहतरी के बिना हमारे देश की बेहतरी नहीं हो सकती है। गांव कोई अतीत नहीं हैं बल्कि भविष्य हैं। मुझे इंपावर भारत का विचार काफी अच्छा लगा। मुझे इस बात से बेहद खुशी हुई की आज भी ऐसी सस्थाएं हैं जो गांव केंद्रित काम करना चाहती हैं। मैं एंपावर भारत के बेहतर भविष्य की कामना करता हूं |
 
                                             </div>
 
                                             <div class="flex items-end">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -493,7 +477,7 @@
                                     <div class="bg-white p-4 mx-12 rounded-lg">
                                         <div class="flex ">
                                             <div class="flex item-start">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -518,13 +502,13 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-xs md:text-lg md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
                                                 It's a matter of great pride for me to be associated with "Empower Bharat". For me, it is more than a company where the employees are like a family and always ready to help each other. After joining EB, I learned a lot of new things. This is not just a company, it's an emotion for me.
 
                                             </div>
 
                                             <div class="flex items-end">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -576,7 +560,7 @@
                                     <div class="bg-white p-4 mx-12 rounded-lg">
                                         <div class="flex ">
                                             <div class="flex item-start">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -601,13 +585,13 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-xs md:text-lg md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
                                                 Thank you so much for giving me the opportunity to intern with Empower Bharat. I have learned so much and had the chance to work with some amazing people and on great projects. I am so grateful to have you as a mentor and appreciate your mentorship and the healthy environment you provided.
 
                                             </div>
 
                                             <div class="flex items-end">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -659,7 +643,7 @@
                                     <div class="bg-white p-4 mx-12 rounded-lg">
                                         <div class="flex ">
                                             <div class="flex item-start">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -684,13 +668,13 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-xs md:text-lg md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
                                                 I feel pleasure to work in Empower Bharat as an intern. Just felt as I was In my family. Gained a lot of knowledge from my colleagues. Developed my communication skills and had good support and guidance from my fellow colleagues. Thank you for believing in me and giving me this opportunity to me.
 
                                             </div>
 
                                             <div class="flex items-end">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -745,7 +729,7 @@
                                     <div class="bg-white p-4 mx-12 rounded-lg">
                                         <div class="flex ">
                                             <div class="flex item-start">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -770,13 +754,13 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-xs md:text-lg md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
                                                 Empower Bharat is an incredible place to work. The team's support, collaboration, and encouragement to be creative have enhanced my skills. Work flexibility allows for a free flow of ideas. The humble team leaders inspire us to make a lasting impact while working for a meaningful social cause.
 
                                             </div>
 
                                             <div class="flex items-end">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -828,7 +812,7 @@
                                     <div class="bg-white p-4 mx-12 rounded-lg">
                                         <div class="flex ">
                                             <div class="flex item-start">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -853,14 +837,14 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-xs md:text-lg md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
                                                 I'm thrilled to be part of this prestigious organization with an amazing concept. The humble team leaders and flexible work environment foster continuous learning. The thoughtful concept of the organization and the great team coordination make it a recipe for success. Wishing continued success to this remarkable team!
 
 
                                             </div>
 
                                             <div class="flex items-end">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -912,7 +896,7 @@
                                     <div class="bg-white p-4 mx-12 rounded-lg">
                                         <div class="flex ">
                                             <div class="flex item-start">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -937,12 +921,12 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-xs md:text-lg md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
                                                 I feel incredibly fortunate to be part of Empower Bharat, a great initiative for empowering Bharat. My internship has been an enjoyable and invaluable experience. Working under a dedicated leader and alongside a talented and cooperative team has been inspiring. I'm grateful for this opportunity and everything I've learned.
                                             </div>
 
                                             <div class="flex items-end">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -994,7 +978,7 @@
                                     <div class="bg-white p-4 mx-12 rounded-lg">
                                         <div class="flex ">
                                             <div class="flex item-start">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -1019,13 +1003,13 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-xs md:text-lg md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
                                                 This internship has been a journey of accomplishments. I developed strong teamwork and communication skills. The connections made have been invaluable. I extend my gratitude to the initiative leader and the entire design team for their support. The online meetings were refreshing and enjoyable. Thank you!
 
                                             </div>
 
                                             <div class="flex items-end">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -1077,7 +1061,7 @@
                                     <div class="bg-white p-4 mx-12 rounded-lg">
                                         <div class="flex ">
                                             <div class="flex item-start">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -1102,13 +1086,13 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-xs md:text-lg md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
                                                 For me, working with Team Empower Bharat is not just an internship or earning opportunity; it's about being part of a dedicated team. Their agenda to uplift education in rural India resonates deeply. Working under a great leader as a developer is a true achievement. Grateful for this opportunity.
 
                                             </div>
 
                                             <div class="flex items-end">
-                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
+                                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" class="md:w-8 md:h-8 md:p-2  w-4 h-4 rotate-180" viewBox="0 0 980.000000 830.000000" preserveAspectRatio="xMidYMid meet">
 
                                                     <g transform="translate(0.000000,830.000000) scale(0.100000,-0.100000)" fill="#255F4C" stroke="none">
                                                         <path d="M2750 8283 c-942 -96 -1772 -598 -2266 -1370 -230 -360 -385 -770
@@ -1198,36 +1182,36 @@
                 </div>
             </div>
 
-            <div class="tracking-widest flex-wrap mb-6 flex items-center justify-center text-green-800 font-bold">
+            <div class="tracking-widest text-xl flex-wrap mb-6 flex items-center justify-center text-green-800 font-bold">
 
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">NGO Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-16" src="images/partner/Shishti Anant Logo.png" />
+                        <img class="h-24" src="images/partner/Shishti Anant Logo.png" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">Technical Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-16" src="images/partner/Technomind logo.jpg" />
+                        <img class="h-24" src="images/partner/Technomind logo.jpg" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">Corporate Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-16" src="images/partner/LOCAL-WALE-LOGO-3.jpg" />
+                        <img class="h-24" src="images/partner/LOCAL-WALE-LOGO-3.jpg" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">Social Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-16" src="images/partner/nss_iitr_logo new.png" />
+                        <img class="h-24" src="images/partner/nss_iitr_logo new.png" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-2">College Festival Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-16" src="images/partner/Summit_23 logo.png" />
+                        <img class="h-24" src="images/partner/Summit_23 logo.png" />
                     </div>
                 </div>
 
