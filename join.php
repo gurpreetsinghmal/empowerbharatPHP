@@ -18,18 +18,18 @@
         <div class="flex items-center w-full">
 
             <div class="w-1/2 h-64 flex flex-col justify-between">
-                <div class="leading-relaxed md:text-4xl text-xl font-bold text-green-800">
+                <div class="leading-relaxed md:text-5xl text-xl font-bold text-green-800">
                     Empower yourself and build <br />India by working with us</div>
-                <div class="font-bold tracking-wider mb-2 leading-loose">
+                <div class="font-bold md:text-3xl tracking-wider mb-2 leading-loose">
                     Be an Empowerer
                 </div>
                 <div class="flex md:justify-start">
-                    <button class="bg-green-800 p-3 md:px-8 text-white rounded-full">Join Us ></button>
+                    <button class="bg-green-800 p-3 md:text-2xl md:px-8 text-white rounded-full">Join Us ></button>
                 </div>
 
             </div>
             <div class="w-1/2 p-2 md:p-6 flex justify-center mx-auto">
-                <img class="md:h-96 w-[vw]" src="images/work/hero section vector.png" />
+                <img class="md:h-[500px] w-[vw]" src="images/work/hero section vector.png" />
             </div>
         </div>
     </div>

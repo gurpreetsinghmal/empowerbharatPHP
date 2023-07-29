@@ -20,19 +20,19 @@
       
         <div class="flex items-center w-full">
             
-            <div class="w-1/2 h-64 flex flex-col justify-between">
-                <div class="leading-relaxed md:text-4xl text-xl font-bold text-green-800">
-                    Empower yourself and build <br/>India by working with us</div>
-                <div class="font-bold tracking-wider mb-2 leading-loose">
-                Be an Empowerer
+        <div class="w-1/2 h-64 flex flex-col justify-between">
+                <div class="leading-relaxed md:text-5xl text-xl font-bold text-green-800">
+                    Empower yourself and build <br />India by working with us</div>
+                <div class="font-bold md:text-3xl tracking-wider mb-2 leading-loose">
+                    Be an Empowerer
                 </div>
                 <div class="flex md:justify-start">
-                <button class="bg-green-800 p-3 md:px-8 text-white rounded-full" >Join Us ></button>
+                    <button class="bg-green-800 p-3 md:text-2xl md:px-8 text-white rounded-full">Join Us ></button>
                 </div>
-               
+
             </div>
             <div class="w-1/2 p-2 md:p-6 flex justify-center mx-auto">
-                <img class="md:h-96 w-[vw]" src="images/work/hero section vector.png"/>
+                <img class="md:h-[500px] w-[vw]" src="images/work/hero section vector.png"/>
             </div>
         </div>
         </div>
@@ -55,9 +55,9 @@
                 <img class="w-1/2 mx-auto" src="images/work/partner icon.png ">
             </div>
             <div class="w-full">
-                <div class="text-2xl font-bold text-green-800">Partner with us. Let’s together and create something
+                <div class="text-3xl my-4 font-bold text-green-800">Partner with us. Let’s together and create something
                     meaningful!</div>
-                <div class="tracking-wider mb-2 leading-loose">Empower Bharat-” An Initiative to Revive Rural India '', launched on India’s 75th Independence Day
+                <div class="tracking-wider text-xl text-justify mb-2 leading-loose">Empower Bharat-” An Initiative to Revive Rural India '', launched on India’s 75th Independence Day
                     with the vision to bridge the Rural-Urban economic divide at the grass-root level by providing
                     quality education for children and generating employment for struggling youth to make them
                     self-reliant. 
@@ -67,7 +67,7 @@
                     sustainable process.
                 </div>
                 <div class="flex justify-center md:justify-start">
-                <button class="bg-green-800 p-3 text-white rounded-full" >Connect Us ></button>
+                <button class="bg-green-800 text-xl p-3 text-white rounded-full" >Connect Us ></button>
                 </div>
                
             </div>
@@ -91,9 +91,9 @@
                 <img class="w-1/2 mx-auto" src="images/work/sponsor icon.png ">
             </div>
             <div class="w-full">
-                <div class="text-2xl font-bold text-green-800">Partner with us. Let’s together and create something
+                <div class="text-3xl my-4 font-bold text-green-800">Partner with us. Let’s together and create something
                     meaningful!</div>
-                <div class="tracking-wider mb-2 leading-loose">Empower Bharat-” An Initiative to Revive Rural India '', launched on India’s 75th Independence Day
+                <div class="tracking-wider text-xl text-justify mb-2 leading-loose">Empower Bharat-” An Initiative to Revive Rural India '', launched on India’s 75th Independence Day
                     with the vision to bridge the Rural-Urban economic divide at the grass-root level by providing
                     quality education for children and generating employment for struggling youth to make them
                     self-reliant. 
@@ -103,7 +103,7 @@
                     sustainable process.
                 </div>
                 <div class="flex justify-center md:justify-start">
-                <button class="bg-green-800 p-3 text-white rounded-full" >Reach Us ></button>
+                <button class="bg-green-800 text-xl p-3 text-white rounded-full" >Reach Us ></button>
                 </div>  </div>
         </div>
     </div>
@@ -125,9 +125,9 @@
                 <img class="w-1/2 mx-auto" src="images/work/employee icon.png ">
             </div>
             <div class="w-full">
-                <div class="text-2xl font-bold text-green-800">Partner with us. Let’s together and create something
+                <div class="text-3xl my-4 font-bold text-green-800">Partner with us. Let’s together and create something
                     meaningful!</div>
-                <div class="tracking-wider mb-2 leading-loose">Empower Bharat-” An Initiative to Revive Rural India '', launched on India’s 75th Independence Day
+                <div class="tracking-wider text-xl text-justify mb-2 leading-loose">Empower Bharat-” An Initiative to Revive Rural India '', launched on India’s 75th Independence Day
                     with the vision to bridge the Rural-Urban economic divide at the grass-root level by providing
                     quality education for children and generating employment for struggling youth to make them
                     self-reliant. 
@@ -136,7 +136,7 @@
                     Our model is designed to address the key underlying problems of development through a practical and
                     sustainable process.
                 </div>
-                <div class="flex justify-center md:justify-start">
+                <div class="flex text-xl justify-center md:justify-start">
                 <button class="bg-green-800 p-3 text-white rounded-full" >Apply Now ></button>
                 </div>
             </div>
@@ -160,9 +160,9 @@
                 <img class="w-1/2 mx-auto" src="images/work/intern icon.png ">
             </div>
             <div class="w-full">
-                <div class="text-2xl font-bold text-green-800">Partner with us. Let’s together and create something
+                <div class="text-3xl my-4 font-bold text-green-800">Partner with us. Let’s together and create something
                     meaningful!</div>
-                <div class="tracking-wider mb-2 leading-loose">Empower Bharat-” An Initiative to Revive Rural India '', launched on India’s 75th Independence Day
+                <div class="tracking-wider text-xl text-justify mb-2 leading-loose">Empower Bharat-” An Initiative to Revive Rural India '', launched on India’s 75th Independence Day
                     with the vision to bridge the Rural-Urban economic divide at the grass-root level by providing
                     quality education for children and generating employment for struggling youth to make them
                     self-reliant. 
@@ -171,7 +171,7 @@
                     Our model is designed to address the key underlying problems of development through a practical and
                     sustainable process.
                 </div>
-                <div class="flex justify-center md:justify-start">
+                <div class="flex text-xl justify-center md:justify-start">
                 <button class="bg-green-800 p-3 text-white rounded-full" >Apply Now ></button>
                 </div>
                 </div>

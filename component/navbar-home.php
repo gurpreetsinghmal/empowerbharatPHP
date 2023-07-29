@@ -1,6 +1,6 @@
 <!-- navigation bar -->
 
-<nav class="z-40 w-full z-40 top-0 left-0 md:fixed bg-white border-gray-200 dark:bg-gray-900 dark:border-gray-700">
+<nav class="z-40 text-lg w-full z-40 top-0 left-0 md:fixed bg-white border-gray-200 dark:bg-gray-900 dark:border-gray-700">
   <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
     <a href="#" class="flex items-center">
         <img class="h-12 md:h-16" src="images/logo.png" alt="Logo" />

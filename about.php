@@ -85,7 +85,7 @@
     </div>
 
     <!-- vision -->
-    <div class="container mx-auto p-4 my-6">
+    <div id="vision" class="container mx-auto p-4 my-6">
         <div class="my-8">
             <div class="w-full mx-auto">
                 <div class="text-4xl mx-auto  mb-2 text-center">Vision and Mission</div>
