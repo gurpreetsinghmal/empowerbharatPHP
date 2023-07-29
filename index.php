@@ -87,7 +87,7 @@
             </div>
             <div class="flex md:flex-row flex-col-reverse text-xl w-full mb-6">
                 <div id="expandableContent" class="mb-2 transition-all duration-300  leading-loose text-justify">
-                    <iframe class="float-right ml-8 mt-3 w-full h-72 md:w-1/3 md:h-[300px] border border-gray-200 rounded-lg " src="https://www.youtube.com/embed/ryFybCODyyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen>
+                    <iframe class="float-right ml-8 mt-3 w-full h-72 md:w-1/2 md:h-[450px] border border-gray-200 rounded-lg " src="https://www.youtube.com/embed/ryFybCODyyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen>
 
                     </iframe>
                     An Initiative to Revive Rural India '', launched on India’s 75th Independence Day with the vision to bridge the Rural-Urban economic divide at the grass-root level by providing quality education for children and generating employment for struggling youth to make them self-reliant.

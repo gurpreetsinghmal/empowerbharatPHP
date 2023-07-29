@@ -56,9 +56,23 @@
       Copyright 2023, Empower Bharat Training Ltd. | All rights reserved | Terms & conditions
   </div>
 
+   <!-- Page Loader -->
+    <!-- Loader Wrapper -->
+    <div class="fixed top-1/2 inset-0 z-50 bg-white/90 flex justify-center items-center transition-all opacity-100 ease-in-out h-max" id="page-loader">
+        <!-- Loader -->
+        <div class="relative">
+            
+            <div class="text-[#7AC3A3] inline-block h-16 w-16 animate-spin rounded-full border-4 border-solid border-current border-r-transparent align-[-0.125em] text-success motion-reduce:animate-[spin_1.5s_linear_infinite]" role="status">
+               
+            <span class=" !absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]">Loading...</span>
+            </div>
+        </div>
+    </div>
+
   <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.7.0/flowbite.min.js"></script>
 
   <script>
+
       function play() {
           var h = document.getElementById('xhumberg');
           var o = document.getElementById('humberg');
@@ -69,4 +83,15 @@
               {h.classList.remove("hidden");
                o.classList.add("hidden");}
       }
+      document.onreadystatechange = function () {
+         if (document.readyState !== "complete") {
+            document.querySelector("body").style.visibility = "hidden";
+            document.getElementById("page-loader").style.visibility = "visible";
+         } else {
+            setTimeout(() => {
+               document.getElementById("page-loader").style.display ="none";
+               document.querySelector("body").style.visibility = "visible";
+            }, 3000)
+         }
+      };
   </script>
