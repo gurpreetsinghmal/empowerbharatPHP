@@ -13,7 +13,7 @@
     include 'component/navbar-about.php';
     ?>
 
-        <div style="background-color:#4A806D" class="w-full mt-24 md:flex justify-center ">
+        <div style="background-color:#4A806D" class="w-full md:mt-24 md:flex justify-center ">
                     
                     <video class="md:h-[750px]  max-w-full "
                     controls preload="none" autoplay muted loop>

@@ -13,7 +13,7 @@
     include 'component/navbar-team.php';
     ?>
 
-    <div class="mt-24">
+    <div class="md:mt-24">
         <img class="w-full md:h-[750px]" src="images/team/team.png" />
     </div>
 

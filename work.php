@@ -31,7 +31,7 @@
                 </div>
                
             </div>
-            <div class="w-1/2 p-6 flex justify-center mx-auto">
+            <div class="w-1/2 p-2 md:p-6 flex justify-center mx-auto">
                 <img class="md:h-96 w-[vw]" src="images/work/hero section vector.png"/>
             </div>
         </div>
