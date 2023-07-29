@@ -162,8 +162,8 @@
                         <div class="mt-6  flex justify-center items-center">
                             <img class="h-40" src="images/work/sutra.png" />
                         </div>
-                        <div class="uppercase text-center my-4 font-bold text-2xl text-green-800">
-                            SUTRA
+                        <div class=" text-center my-4 font-bold text-2xl text-green-800">
+                            SUTRA for Kids
                         </div>
                         <div class="text-center text-xl font-light text-gray-500 p-4 mb-6">
                             With Smart and Unique Teaching in Rural Areas (SUTRA), our team plans to bridge the gap.
@@ -192,7 +192,7 @@
                         <div class="mt-6  flex justify-center items-center">
                             <img class="h-40 " src="images/work/streesafety.png" />
                         </div>
-                        <div class="uppercase text-center my-4 font-bold text-2xl text-green-800">
+                        <div class=" text-center my-4 font-bold text-2xl text-green-800">
                             STREE Safety
                         </div>
                         <div class="text-center text-xl font-light text-gray-500 p-4 mb-6">
@@ -237,7 +237,7 @@
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
-                            <a href="#" class="tracking-widest uppercase">Sponsers</a>
+                            <a href="#" class="tracking-widest uppercase">Sponser</a>
                         </div>
                     </div>
                     <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
@@ -246,7 +246,7 @@
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
-                            <a href="#" class="tracking-widest uppercase">Partners</a>
+                            <a href="#" class="tracking-widest uppercase">Partner</a>
                         </div>
                     </div>
                     <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">

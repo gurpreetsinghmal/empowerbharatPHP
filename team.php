@@ -40,7 +40,7 @@
                 ?>
                     <div class="   p-4 md:flex flex-col justify-center ">
                         <div class="w-full mb-2 flex justify-center">
-                            <img alt="no img" class="w-32 h-32 hover:ring-4 ease-in duration-300  ring-green-800 rounded-full" 
+                            <img alt="no img" class="w-32 h-32 ring-2 ring-[#7AC3A3] p-1 hover:ring-4 ease-in duration-300  hover:ring-green-800 rounded-full" 
                             src="<?php 
                             if($decoded_json[$k]["Photo"]==""){
                                 echo "images/team/noimg.png";      
