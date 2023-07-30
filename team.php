@@ -23,7 +23,7 @@
     <div>
         <div class="container mx-auto p-4 my-3">
             <div class="mb-3">
-                <div class="text-4xl mx-auto  mb-2 text-center">Our Team</div>
+                <div class="text-4xl mx-auto  mb-2 text-center">Team</div>
                 <div class="flex w-28 mx-auto">
                     <span class="h-1 w-1/3" style="background:#255F4C;"></span>
                     <span class="h-1 w-1/3" style="background: #7AC3A3;"></span>
