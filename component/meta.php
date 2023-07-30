@@ -11,7 +11,7 @@
 <link rel="canonical" href="https://www.empowerbharat.in/">
 
 <!-- If empowerbharat.in has social media sharing functionality, consider using Open Graph meta tags to control how content appears when shared on platforms like Facebook. -->
-<meta property="og:title" content="Empower Bharat | An Initiative to Revive Rural India">
+<meta property="og:title" content="Empower Bharat | <?php echo basename($_SERVER['PHP_SELF'],'.php');?> | An Initiative to Revive Rural India">
 <meta property="og:description" content="Empower Bharat is dedicated to fostering social initiatives and empowering communities for a brighter future in India. Join us in driving positive change.">
 <meta property="og:image" content="https://www.empowerbharat.in/image.jpg">
 <meta property="og:url" content="https://www.empowerbharat.in">
