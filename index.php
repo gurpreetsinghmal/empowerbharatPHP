@@ -53,7 +53,9 @@
 
             <!-- Item 7 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <a target="_blank" href="https://drive.google.com/drive/folders/1IoDp7-ijUhKVKE1JOnMn-CslgmQD7txm?usp=sharing">
                 <img src="images/slider/7.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+            </a>
             </div>
 
             <!-- Item 8 -->
