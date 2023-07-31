@@ -18,7 +18,7 @@
               <img src="images/logo.png" class="h-12" />
                   </a>
               </div>
-              <div class="w-full text-center grid grid-cols-3  gap-3">
+              <div class="w-full text-center grid grid-cols-3 text-xl gap-3">
 
                   <div class="mb-8">
                       <div class="mb-3 font-bold text-green-800">
