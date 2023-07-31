@@ -60,7 +60,7 @@
 
    <!-- Page Loader -->
     <!-- Loader Wrapper -->
-    <div class="fixed top-1/2 inset-0 z-50 bg-white/90 flex justify-center items-center transition-all opacity-100 ease-in-out h-max" id="page-loader">
+    <div class="fixed top-1/2 inset-0 z-999 bg-white/90 flex justify-center items-center transition-all opacity-100 ease-in-out h-max" id="page-loader">
         <!-- Loader -->
         <div class="relative">
             
