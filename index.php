@@ -37,6 +37,23 @@
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
                 <img src="images/slider/5.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
             </div>
+
+            <!-- Item 6 -->
+            <div class="hidden duration-700 ease-in-out" data-carousel-item>
+                <img src="images/slider/6.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+            </div>
+
+            <!-- Item 7 -->
+            <div class="hidden duration-700 ease-in-out" data-carousel-item>
+                <img src="images/slider/7.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+            </div>
+
+            <!-- Item 8 -->
+            <div class="hidden duration-700 ease-in-out" data-carousel-item>
+                <img src="images/slider/8.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+            </div>
+
+
         </div>
         <!-- Slider indicators --
         <div class="absolute z-30 flex space-x-3  -translate-x-1/2 bottom-5 left-1/2">
