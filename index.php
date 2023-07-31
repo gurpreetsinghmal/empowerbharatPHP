@@ -19,7 +19,9 @@
         <div class="relative h-48 overflow-hidden md:h-[850px]">
             <!-- Item 1 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <a target="_blank" href="https://forms.gle/4L2kX7tyU1Nh34Ux7">
                 <img src="images/slider/1.png" class="object-fill absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+            </a>
             </div>
             <!-- Item 2 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
@@ -31,16 +33,22 @@
             </div>
             <!-- Item 4 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                <img src="images/slider/4.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <a target="_blank" href="https://youtube.com/playlist?list=PLjhA2yPw10ZIC3Oy-cjaWXng7tjRjlWB7">
+                    <img src="images/slider/4.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                </a>
             </div>
             <!-- Item 5 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                <img src="images/slider/5.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <a target="_blank" href="https://m.youtube.com/@streesafety/featured">
+                    <img src="images/slider/5.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                </a>
             </div>
 
             <!-- Item 6 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                <img src="images/slider/6.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <a target="_blank" href="https://youtube.com/playlist?list=PLjd4bTvfVmleyQ0EP_527aaONLvngRwky">
+                    <img src="images/slider/6.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                </a>
             </div>
 
             <!-- Item 7 -->
@@ -50,7 +58,9 @@
 
             <!-- Item 8 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                <img src="images/slider/8.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <a target="_blank" href="https://streesafety.com/home">
+                    <img src="images/slider/8.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                </a>
             </div>
 
 
@@ -116,7 +126,7 @@
                     Lastly, we envisage a safe and independent environment for women through safety training, skill development workshops, and most importantly, through our one-of-a-kind STREE Podcast.
 
                     With Empower Bharat, we strive to make a unified, empowered India a reality.
-                 
+
                 </div>
 
                 <!-- <div class="md:w-1/2 w-full md:flex justify-end md:ml-20 ">
@@ -127,7 +137,7 @@
                 </div> -->
 
             </div>
-           
+
         </div>
 
     </div>
@@ -136,7 +146,7 @@
     <div>
         <div class="container mx-auto p-4">
             <div class="mb-5">
-            <div class="text-4xl md:text-left text-center tracking-wider">Did You Know</div>
+                <div class="text-4xl md:text-left text-center tracking-wider">Did You Know</div>
                 <div class="flex md:justify-start justify-center ">
                     <div class="flex w-72">
                         <span class="h-1 w-1/3" style="background:#255F4C;"></span>
@@ -175,9 +185,12 @@
 
             <div class="md:flex w-full mb-6">
                 <div class="grid md:grid-cols-3 gap-4">
+
                     <div class="bg-white rounded-lg p-4 flex flex-col items-center justify-between">
                         <div class="mt-6  flex justify-center items-center">
-                            <img class="h-40" src="images/work/sutra.png" />
+                            <a target="_blank" href="https://m.youtube.com/watch?v=g_VKoYCIeQk">
+                                <img class="h-40" src="images/work/sutra.png" />
+                            </a>
                         </div>
                         <div class=" text-center my-4 font-bold text-2xl text-green-800">
                             SUTRA for Kids
@@ -186,13 +199,15 @@
                             With Smart and Unique Teaching in Rural Areas (SUTRA), our team plans to bridge the gap.
                         </div>
                         <div class="text-green-800 text-center p-4 font-bold">
-                            <a href="#">See more ></a>
+                            <a target="_blank" href="https://m.youtube.com/watch?v=g_VKoYCIeQk">See more ></a>
                         </div>
                     </div>
+
                     <div class="bg-white rounded-lg p-4 flex flex-col items-center justify-between">
                         <div class="mt-6  flex justify-center items-center">
-                            <img class="h-40" src="images/work/jobuwant.png" />
-
+                            <a target="_blank" href="https://youtube.com/playlist?list=PLjhA2yPw10ZIC3Oy-cjaWXng7tjRjlWB7">
+                                <img class="h-40" src="images/work/jobuwant.png" />
+                            </a>
                         </div>
                         <div class="uppercase text-center my-4 font-bold text-2xl text-green-800">
                             JOB U WANT
@@ -201,13 +216,16 @@
                             A curated one-stop platform for youth to keep them posted with free alerts of all the jobs.
                         </div>
                         <div class="text-green-800 text-center p-4 font-bold">
-                            <a href="#">See more ></a>
+                            <a target="_blank" href="https://youtube.com/playlist?list=PLjhA2yPw10ZIC3Oy-cjaWXng7tjRjlWB7">
+                                See more ></a>
                         </div>
                     </div>
 
                     <div class="bg-white rounded-lg p-4 flex flex-col items-center justify-between">
                         <div class="mt-6  flex justify-center items-center">
-                            <img class="h-40 " src="images/work/streesafety.png" />
+                            <a target="_blank" href="https://streesafety.com">
+                                <img class="h-40 " src="images/work/streesafety.png" />
+                            </a>
                         </div>
                         <div class=" text-center my-4 font-bold text-2xl text-green-800">
                             STREE Safety
@@ -217,7 +235,7 @@
                             Empowerment
                         </div>
                         <div class="text-green-800 text-center p-4 font-bold">
-                            <a href="#">See more ></a>
+                            <a target="_blank" href="https://streesafety.com">See more ></a>
                         </div>
                     </div>
 
@@ -236,7 +254,7 @@
     <div>
         <div class="container mx-auto p-4 my-6">
             <div class="mb-5">
-                 <div class="text-4xl md:text-left text-center tracking-wider">Join Us</div>
+                <div class="text-4xl md:text-left text-center tracking-wider">Join Us</div>
                 <div class="flex md:justify-start justify-center ">
                     <div class="flex w-44">
                         <span class="h-1 w-1/3" style="background:#255F4C;"></span>
@@ -301,7 +319,7 @@
     <div>
         <div class="container mx-auto p-4 my-6">
             <div class="mb-5">
-            <div class="text-4xl md:text-left text-center tracking-wider">Empowerers</div>
+                <div class="text-4xl md:text-left text-center tracking-wider">Empowerers</div>
                 <div class="flex md:justify-start justify-center ">
                     <div class="flex w-60">
                         <span class="h-1 w-1/3" style="background:#255F4C;"></span>
@@ -1204,6 +1222,7 @@
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">NGO Partner</div>
                     <div class=" flex justify-center items-center">
+
                         <img class="h-24" src="images/partner/Shishti Anant Logo.png" />
                     </div>
                 </div>

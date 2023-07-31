@@ -115,7 +115,7 @@
             <div class="w-full">
                 <div class="text-2xl font-bold text-green-800 my-2">Empowerment Begins Here. Join our team and become a change-maker!
                 </div>
-                <div class="tracking-wider mb-2 text-xl text-justify leading-loose">At Empower Bharat, we are more than just a team – we are a passionate community united by a common goal: to make a tangible difference in the lives of people. As an employee, you'll be a valued member of our dynamic organization, contributing your unique skills and ideas to drive meaningful change and create opportunities for empowerment in rural India. Join us as we nurture a culture of empowerment and work collectively to build a brighter tomorrow.
+                <div class="tracking-wider mb-2 text-justify leading-loose">At Empower Bharat, we are more than just a team – we are a passionate community united by a common goal: to make a tangible difference in the lives of people. As an employee, you'll be a valued member of our dynamic organization, contributing your unique skills and ideas to drive meaningful change and create opportunities for empowerment in rural India. Join us as we nurture a culture of empowerment and work collectively to build a brighter tomorrow.
                 </div>
                 <div class="flex justify-center md:justify-start">
                     <a target="_blank" href="https://forms.gle/4L2kX7tyU1Nh34Ux7" class="bg-green-800 p-3 text-white rounded-full">Apply Now ></a>
