@@ -57,7 +57,7 @@
             <div class="w-full">
                 <div class="text-2xl font-bold text-green-800 my-2">Partner with us. Let’s together and create something
                     meaningful!</div>
-                <div class="tracking-wider mb-2 text-justify leading-loose">
+                <div class="tracking-wider text-xl mb-2 text-justify leading-loose">
                     At Empower Bharat, collaboration is at the heart of everything we do. We work together with many organizations and create sustainable solutions and drive meaningful impact in the lives of those in need. We invite like-minded partners to join forces with us, share our vision, and contribute to our collective mission of transforming rural India. Partner with us and be a part of an inspiring journey where collaboration leads to empowerment, and together, we can create a brighter and more prosperous future for everyone.
                 </div>
                 <div class="flex justify-center md:justify-start">
