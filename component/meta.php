@@ -12,8 +12,8 @@
 
 <!-- If empowerbharat.in has social media sharing functionality, consider using Open Graph meta tags to control how content appears when shared on platforms like Facebook. -->
 <meta property="og:title" content="Empower Bharat | <?php echo basename($_SERVER['PHP_SELF'],'.php');?> | An Initiative to Revive Rural India">
-<meta property="og:description" content="Empower Bharat is dedicated to fostering social initiatives and empowering communities for a brighter future in India. Join us in driving positive change.">
-<meta property="og:image" content="https://www.empowerbharat.in/image.jpg">
+<meta property="og:description" content="An Initiative to Revive Rural India '', launched on India’s 75th Independence Day with the vision to bridge the Rural-Urban economic divide at the grass-root level by providing quality education for children and generating employment for struggling youth to make them self-reliant. ">
+<meta property="og:image" content="https://www.empowerbharat.in/images/logo.png">
 <meta property="og:url" content="https://www.empowerbharat.in">
 
 
