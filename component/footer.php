@@ -35,9 +35,9 @@
                   </div>
                   <div class="mb-8">
                       <div class="mb-3 font-bold text-green-800">Join Us</div>
-                      <div class="mb-3"><a href="#">Sponsor</a></div>
-                      <div class="mb-3"><a href="#">Partner</a></div>
-                      <div class="mb-3"><a href="#">Work With Us</a></div>
+                      <div class="mb-3"><a target="_blank" href="https://forms.gle/4L2kX7tyU1Nh34Ux7">Sponsor</a></div>
+                      <div class="mb-3"><a target="_blank" href="https://forms.gle/4L2kX7tyU1Nh34Ux7">Partner</a></div>
+                      <div class="mb-3"><a target="_blank" href="https://forms.gle/4L2kX7tyU1Nh34Ux7">Work With Us</a></div>
                   </div>
 
               </div>

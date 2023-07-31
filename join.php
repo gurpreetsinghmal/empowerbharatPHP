@@ -26,7 +26,7 @@
                         Be an Empowerer
                     </div>
                     <div class="flex md:justify-start">
-                        <button class="bg-green-800 p-3 md:text-2xl md:px-8 text-white rounded-full">Join Us ></button>
+                        <a target="_blank" href="https://forms.gle/4L2kX7tyU1Nh34Ux7" class="bg-green-800 p-3 md:text-2xl md:px-8 text-white rounded-full">Join Us ></a>
                     </div>
 
                 </div>
