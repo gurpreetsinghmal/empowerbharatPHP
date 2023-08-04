@@ -104,7 +104,7 @@
     <div>
         <div class="container mx-auto p-4 mt-6">
             <div class="mb-5 w-full">
-                <div class="text-4xl md:text-left text-center tracking-wider">About Us</div>
+                <div class="text-4xl md:text-left text-center tracking-wider">About US</div>
                 <div class="flex md:justify-start justify-center ">
                     <div class="flex w-44">
                         <span class="h-1 w-1/3" style="background:#255F4C;"></span>
