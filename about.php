@@ -96,7 +96,7 @@
             <div class="md:m-2 md:w-2/3 border-0 border-gray-100 bg-white shadow-lg drop-shadow-lg  p-4 rounded-lg md:flex items-center">
                 <div class="leading-relaxed md:w-1/3 py-0 md:py-12 text-2xl md:text-4xl md:border-r-2 border-green-800">
                     <div class="text-green-800 md:text-left text-center">Our Mission</div>
-                    <div class="md:text-left md:text-lg text-center"> is to envisage an  empowered rural India where,</div>
+                    <div class="md:text-left md:text-lg lg:text-2xl text-center"> is to envisage an  empowered rural India where,</div>
                 </div>
                 <div class="md:w-2/3  tracking-wider  md:h-full  leading-loose md:px-6 text-justify">
                     <ul class="list-outside list-disc px-6 h-full flex flex-col justify-evenly">
