@@ -18,7 +18,7 @@
               <img src="images/logo.png" class="h-12" />
                   </a>
               </div>
-              <div class="w-full text-center grid grid-cols-3  gap-3">
+              <div class="w-full text-center grid grid-cols-3 text-xl gap-3">
 
                   <div class="mb-8">
                       <div class="mb-3 font-bold text-green-800">
@@ -35,9 +35,9 @@
                   </div>
                   <div class="mb-8">
                       <div class="mb-3 font-bold text-green-800">Join Us</div>
-                      <div class="mb-3"><a href="#">Sponsor</a></div>
-                      <div class="mb-3"><a href="#">Partner</a></div>
-                      <div class="mb-3"><a href="#">Work With Us</a></div>
+                      <div class="mb-3"><a target="_blank" href="https://forms.gle/4L2kX7tyU1Nh34Ux7">Sponsor</a></div>
+                      <div class="mb-3"><a target="_blank" href="https://forms.gle/4L2kX7tyU1Nh34Ux7">Partner</a></div>
+                      <div class="mb-3"><a target="_blank" href="https://forms.gle/4L2kX7tyU1Nh34Ux7">Work With Us</a></div>
                   </div>
 
               </div>
@@ -60,7 +60,7 @@
 
    <!-- Page Loader -->
     <!-- Loader Wrapper -->
-    <div class="fixed top-1/2 inset-0 z-50 bg-white/90 flex justify-center items-center transition-all opacity-100 ease-in-out h-max" id="page-loader">
+    <div class="fixed top-1/2 inset-0 z-999 bg-white/90 flex justify-center items-center transition-all opacity-100 ease-in-out h-max" id="page-loader">
         <!-- Loader -->
         <div class="relative">
             

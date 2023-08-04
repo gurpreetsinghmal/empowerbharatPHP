@@ -168,7 +168,7 @@
                             <div class="">
                                 <div class="h-36">
                                     <div class="bg-white h-full p-4 mx-16 rounded-lg">
-                                        <div class="flex justify-between h-full items-center">
+                                        <div class="flex justify-evenly h-full items-center">
                                           <a target="_blank" href="http://www.anantcode.com" >  <img class="h-16 md:h-20 " src="images/partner/Technomind logo.jpg" /></a>
                               
                                           <a target="_blank" href="#" > <img class="h-16 md:h-32 " src="images/partner/Shishti Anant Logo.png" /></a>
