@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     "query=".$query."<br/>".
     "message=".$_POST["emailMessage"]."<br/>".
     "------------------------------------<br/>";
-    
+
     $headers = "From: sender@example.com\r\n";
     $headers .= "Reply-To:".$from."\r\n";
     $headers .= "MIME-Version: 1.0\r\n";
