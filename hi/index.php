@@ -1217,31 +1217,31 @@
                     <div class="text-center font-thin p-4">NGO Partner</div>
                     <div class=" flex justify-center items-center">
 
-                        <img class="h-24" src="images/partner/Shishti Anant Logo.png" />
+                        <img class="h-24" src="../../images/partner/Shishti Anant Logo.png" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">Technical Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-24" src="images/partner/Technominds.jpg" />
+                        <img class="h-24" src="../../images/partner/Technominds.jpg" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">Corporate Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-24" src="images/partner/LOCAL-WALE-LOGO-3.jpg" />
+                        <img class="h-24" src="../../images/partner/LOCAL-WALE-LOGO-3.jpg" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">Social Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-24" src="images/partner/nss_iitr_logo new.png" />
+                        <img class="h-24" src="../../images/partner/nss_iitr_logo new.png" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-2">College Festival Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-24" src="images/partner/Summit_23 logo.png" />
+                        <img class="h-24" src="../../images/partner/Summit_23 logo.png" />
                     </div>
                 </div>
 
