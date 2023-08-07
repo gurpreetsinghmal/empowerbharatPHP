@@ -15,7 +15,7 @@
           <div class="mb-6 flex md:flex-row flex-col-reverse mb-8 w-full gap-3 ">
               <div class="md:w-1/3 w-full flex justify-center">
                   <a href="index.php">
-              <img src="images/logo.png" class="h-12" />
+              <img src="../../images/logo.png" class="h-12" />
                   </a>
               </div>
               <div class="w-full text-center grid grid-cols-3 text-xl gap-3">

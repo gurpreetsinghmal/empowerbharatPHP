@@ -2,7 +2,7 @@
  <div>
      <div class="container mx-auto p-4 my-6">
          <div class="mb-5">
-             <div class="text-4xl md:text-left text-center tracking-wider">Contact Us</div>
+             <div class="text-4xl md:text-left text-center tracking-wider">हमें संपर्क करें</div>
              <div class="flex md:justify-start justify-center ">
                  <div class="flex w-60">
                      <span class="h-1 w-1/3" style="background:#255F4C;"></span>
@@ -15,7 +15,7 @@
          <div class="md:flex mb-5 w-full gap-3">
              <div class="md:w-1/3">
                  <div class="bg-[#255F4C] mb-5 rounded-lg p-3 text-white">
-                     <div class="font-semibold pb-2">Contact Details</div>
+                     <div class="font-semibold pb-2">संपर्क विवरण</div>
                      <div class="flex items-center">
                          <span class="pb-2 pr-2">
                              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
@@ -38,9 +38,8 @@
                  <div class="bg-[#255F4C] mb-5 rounded-lg p-2 text-white">
                      <div class="font-semibold pb-2">Address:</div>
                      <div class="leading-loose">
-                         Registered office: 36, Harasidhdhi Nagar,
-                         Bamroli Road, Panadesara, Surat,
-                         <div>Gujarat - 394221 (India)</div>
+                     पता: पंजीकृत कार्यालय: 36, हरसिद्धि नगर, बमरोली रोड, पांडेसरा, सूरत, 
+                         <div>गुजरात- 394221 (भारत)</div>
                      </div>
 
                  </div>
@@ -108,32 +107,32 @@
 
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
-                             Full Name
+                         पूरा नाम
                          </label>
 
                          <input required id="name" name="name" class=" border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Full Name">
                      </div>
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
-                             Phone Number
+                         फोन नंबर
                          </label>
                          <input required id="phone" name="phone" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Phone Number">
                      </div>
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
-                             Email Address
+                         ईमेल पता
                          </label>
                          <input required id="email" name="email" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter email address">
                      </div>
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
-                             Query
+                         प्रश्न 
                          </label>
                          <input required id="title" name="title" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Query related to">
                      </div>
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
-                             Message
+                         सन्देश
                          </label>
                          <input required id="message" name="message" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Message">
                      </div>
@@ -143,7 +142,7 @@
                                  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 m-2">
                                      <path stroke-linecap="round" stroke-linejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
                                  </svg>
-                                 <span id="subm">Send Query</span>
+                                 <span id="subm">अपने प्रश्न पूछे</span>
                              </span>
 
                          </button>
@@ -185,8 +184,8 @@
 
                                  // The innerHTML property sets or returns the HTML content of an element.
                                  // Here, we are setting the content of the <h1> element to the response from the server.
-                                 document.querySelector("#subm").innerHTML = "Send Query";
-                                 document.querySelector("#msg").innerHTML = obj.msg;
+                                 document.querySelector("#subm").innerHTML = "अपने प्रश्न पूछे";
+                                 document.querySelector("#msg").innerHTML = "";
 
                                  
                                  document.querySelector("#name").value = "";
