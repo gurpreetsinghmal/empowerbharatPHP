@@ -157,7 +157,7 @@
                      form.addEventListener('submit', (e) => {
                          e.preventDefault();
                          // The preventDefault() method stops the form from submitting and prevents the page from refreshing.
-                         document.querySelector("#subm").innerHTML = "Sending...";
+                         document.querySelector("#subm").innerHTML = "संदेश भेजा जा रहा है...";
                          // Change the value of the submit button to "Submitting..." while the form is being submitted.
                          let data = new FormData(form);
                          // The FormData() method creates a new FormData object that contains the values of all the form fields.
@@ -185,7 +185,7 @@
                                  // The innerHTML property sets or returns the HTML content of an element.
                                  // Here, we are setting the content of the <h1> element to the response from the server.
                                  document.querySelector("#subm").innerHTML = "अपने प्रश्न पूछे";
-                                 document.querySelector("#msg").innerHTML = "";
+                                 document.querySelector("#msg").innerHTML = "आपका संदेश भेजा जा चूका है";
 
                                  
                                  document.querySelector("#name").value = "";
