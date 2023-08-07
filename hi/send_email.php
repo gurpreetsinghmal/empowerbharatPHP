@@ -23,10 +23,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $mail_sent = mail($to, $subject, $message, $headers);
 
-    if ($mail_sent) {
-        echo "Email sent successfully";
-    } else {
-        echo "Email sending failed.";
-    }
+   
 }
 ?>
