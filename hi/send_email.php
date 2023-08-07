@@ -8,15 +8,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
      $query=$_POST["emailSubject"];
      $subject = "empowerbharat website";
      $message = "------------------------------------\n".
-     $_POST["emailMessage"].
     "name=".$name."\n".
     "phone=".$phone."\n".
     "email=".$from."\n".
     "query=".$query."\n".
-    "message=".$message."\n".
+    "message=".$_POST["emailMessage"]."\n".
     "------------------------------------\n";
     
-    $headers = "From:sender@empowerbharat.com\r\n";
+    $headers = "From:".$from."\r\n";
     $headers .= "Reply-To:".$from."\r\n";
     $headers .= "MIME-Version: 1.0\r\n";
     $headers .= "Content-type: text/html; charset=utf-8\r\n";

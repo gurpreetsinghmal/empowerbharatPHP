@@ -217,7 +217,7 @@
                         to: to,
                         name:name,
                         phone:phone,
-                        email:from,
+                        from:from,
                         emailSubject: emailSubject,
                         emailMessage: emailMessage
                     },
