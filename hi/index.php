@@ -152,7 +152,7 @@
             <div class="md:flex w-full mb-6">
                 <div class="w-full md:flex justify-center ">
                     <video class="md:w-2/3  max-w-full my-4 border border-gray-200 rounded-lg dark:border-gray-700" controls preload="none" autoplay muted loop>
-                        <source src="animation/diduknow.mp4" type="video/mp4">
+                        <source src="../../animation/diduknow.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                 </div>
