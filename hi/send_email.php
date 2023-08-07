@@ -30,29 +30,3 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 ?>
-<button type="button" id="sendEmail">Send Email</button>
-<div id="responseMessage"></div>
-
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-        $(document).ready(function() {
-            $("#sendEmail").click(function() {
-                var recipientEmail ="gurpreetsinghmal@gmail.com";
-                var emailSubject = "sub";
-                var emailMessage = "mesg";
-                
-                $.ajax({
-                    type: "POST",
-                    url: "send_email.php",
-                    data: {
-                        recipientEmail: recipientEmail,
-                        emailSubject: emailSubject,
-                        emailMessage: emailMessage
-                    },
-                    success: function(response) {
-                        $("#responseMessage").html(response);
-                    }
-                });
-            });
-        });
-    </script>
