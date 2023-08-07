@@ -20,48 +20,48 @@
             <!-- Item 1 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <a target="_blank" href="https://forms.gle/4L2kX7tyU1Nh34Ux7">
-                <img src="images/slider/1.png" class="object-fill absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <img src="../../images/slider/1.png" class="object-fill absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
             </a>
             </div>
             <!-- Item 2 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                <img src="images/slider/2.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <img src="../../images/slider/2.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
             </div>
             <!-- Item 3 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                <img src="images/slider/3.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <img src="../../images/slider/3.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
             </div>
             <!-- Item 4 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
                 <a target="_blank" href="https://youtube.com/playlist?list=PLjhA2yPw10ZIC3Oy-cjaWXng7tjRjlWB7">
-                    <img src="images/slider/4.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                    <img src="../../images/slider/4.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                 </a>
             </div>
             <!-- Item 5 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
                 <a target="_blank" href="https://m.youtube.com/@streesafety/featured">
-                    <img src="images/slider/5.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                    <img src="../../images/slider/5.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                 </a>
             </div>
 
             <!-- Item 6 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
                 <a target="_blank" href="https://youtube.com/playlist?list=PLjd4bTvfVmleyQ0EP_527aaONLvngRwky">
-                    <img src="images/slider/6.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                    <img src="../../images/slider/6.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                 </a>
             </div>
 
             <!-- Item 7 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <a target="_blank" href="https://drive.google.com/drive/folders/1IoDp7-ijUhKVKE1JOnMn-CslgmQD7txm?usp=sharing">
-                <img src="images/slider/7.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <img src="../../images/slider/7.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
             </a>
             </div>
 
             <!-- Item 8 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
                 <a target="_blank" href="https://streesafety.com/home">
-                    <img src="images/slider/8.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                    <img src="../../images/slider/8.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                 </a>
             </div>
 
