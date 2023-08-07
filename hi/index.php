@@ -20,48 +20,48 @@
             <!-- Item 1 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <a target="_blank" href="https://forms.gle/4L2kX7tyU1Nh34Ux7">
-                <img src="../../images/slider/1.png" class="object-fill absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <img src="../images/slider/1.png" class="object-fill absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
             </a>
             </div>
             <!-- Item 2 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                <img src="../../images/slider/2.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <img src="../images/slider/2.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
             </div>
             <!-- Item 3 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                <img src="../../images/slider/3.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <img src="../images/slider/3.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
             </div>
             <!-- Item 4 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
                 <a target="_blank" href="https://youtube.com/playlist?list=PLjhA2yPw10ZIC3Oy-cjaWXng7tjRjlWB7">
-                    <img src="../../images/slider/4.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                    <img src="../images/slider/4.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                 </a>
             </div>
             <!-- Item 5 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
                 <a target="_blank" href="https://m.youtube.com/@streesafety/featured">
-                    <img src="../../images/slider/5.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                    <img src="../images/slider/5.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                 </a>
             </div>
 
             <!-- Item 6 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
                 <a target="_blank" href="https://youtube.com/playlist?list=PLjd4bTvfVmleyQ0EP_527aaONLvngRwky">
-                    <img src="../../images/slider/6.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                    <img src="../images/slider/6.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                 </a>
             </div>
 
             <!-- Item 7 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <a target="_blank" href="https://drive.google.com/drive/folders/1IoDp7-ijUhKVKE1JOnMn-CslgmQD7txm?usp=sharing">
-                <img src="../../images/slider/7.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                <img src="../images/slider/7.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
             </a>
             </div>
 
             <!-- Item 8 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
                 <a target="_blank" href="https://streesafety.com/home">
-                    <img src="../../images/slider/8.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                    <img src="../images/slider/8.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
                 </a>
             </div>
 
@@ -152,7 +152,7 @@
             <div class="md:flex w-full mb-6">
                 <div class="w-full md:flex justify-center ">
                     <video class="md:w-2/3  max-w-full my-4 border border-gray-200 rounded-lg dark:border-gray-700" controls preload="none" autoplay muted loop>
-                        <source src="../../animation/diduknow.mp4" type="video/mp4">
+                        <source src="../animation/diduknow.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                 </div>
@@ -183,7 +183,7 @@
                     <div class="bg-white rounded-lg p-4 flex flex-col items-center justify-between">
                         <div class="mt-6  flex justify-center items-center">
                             <a target="_blank" href="https://m.youtube.com/watch?v=g_VKoYCIeQk">
-                                <img class="h-40" src="../../images/work/sutra.png" />
+                                <img class="h-40" src="../images/work/sutra.png" />
                             </a>
                         </div>
                         <div class=" text-center my-4 font-bold text-2xl text-green-800">
@@ -200,7 +200,7 @@
                     <div class="bg-white rounded-lg p-4 flex flex-col items-center justify-between">
                         <div class="mt-6  flex justify-center items-center">
                             <a target="_blank" href="https://youtube.com/playlist?list=PLjhA2yPw10ZIC3Oy-cjaWXng7tjRjlWB7">
-                                <img class="h-40" src="../../images/work/jobuwant.png" />
+                                <img class="h-40" src="../images/work/jobuwant.png" />
                             </a>
                         </div>
                         <div class="uppercase text-center my-4 font-bold text-2xl text-green-800">
@@ -218,7 +218,7 @@
                     <div class="bg-white rounded-lg p-4 flex flex-col items-center justify-between">
                         <div class="mt-6  flex justify-center items-center">
                             <a target="_blank" href="https://streesafety.com">
-                                <img class="h-40 " src="../../images/work/streesafety.png" />
+                                <img class="h-40 " src="../images/work/streesafety.png" />
                             </a>
                         </div>
                         <div class=" text-center my-4 font-bold text-2xl text-green-800">
@@ -262,7 +262,7 @@
                 <div class="grid md:grid-cols-4 grid-cols-2 gap-4 w-4/5">
                     <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
                         <div class="md:m-6 m-2 flex md:h-64 justify-center items-center">
-                            <img src="../../images/join/Sponsers.jpg" class="h-36 md:h-48 md:w-48" />
+                            <img src="../images/join/Sponsers.jpg" class="h-36 md:h-48 md:w-48" />
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
@@ -271,7 +271,7 @@
                     </div>
                     <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
                         <div class="md:m-6 m-2 flex md:h-64 justify-center items-center">
-                            <img src="../../images/join/partner.jpg" class="h-36 md:h-48 md:w-48" />
+                            <img src="../images/join/partner.jpg" class="h-36 md:h-48 md:w-48" />
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
@@ -280,7 +280,7 @@
                     </div>
                     <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
                         <div class="md:m-6 m-2 flex md:h-64 justify-center items-center">
-                            <img src="../../images/join/employee.jpg" class="h-36 md:h-48 md:w-48" />
+                            <img src="../images/join/employee.jpg" class="h-36 md:h-48 md:w-48" />
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
@@ -289,7 +289,7 @@
                     </div>
                     <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
                         <div class="md:m-6 m-2 flex md:h-64 justify-center items-center">
-                            <img src="../../images/join/intern.jpg" class="h-36 md:h-48 md:w-48" />
+                            <img src="../images/join/intern.jpg" class="h-36 md:h-48 md:w-48" />
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
@@ -1217,31 +1217,31 @@
                     <div class="text-center font-thin p-4">NGO Partner</div>
                     <div class=" flex justify-center items-center">
 
-                        <img class="h-24" src="../../images/partner/Shishti Anant Logo.png" />
+                        <img class="h-24" src="../images/partner/Shishti Anant Logo.png" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">Technical Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-24" src="../../images/partner/Technominds.jpg" />
+                        <img class="h-24" src="../images/partner/Technominds.jpg" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">Corporate Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-24" src="../../images/partner/LOCAL-WALE-LOGO-3.jpg" />
+                        <img class="h-24" src="../images/partner/LOCAL-WALE-LOGO-3.jpg" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">Social Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-24" src="../../images/partner/nss_iitr_logo new.png" />
+                        <img class="h-24" src="../images/partner/nss_iitr_logo new.png" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-2">College Festival Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-24" src="../../images/partner/Summit_23 logo.png" />
+                        <img class="h-24" src="../images/partner/Summit_23 logo.png" />
                     </div>
                 </div>
 

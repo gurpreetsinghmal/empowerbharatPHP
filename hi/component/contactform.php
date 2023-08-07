@@ -188,6 +188,7 @@
                                  document.querySelector("#msg").innerHTML = "आपका संदेश भेजा जा चूका है";
 
                                  
+                                 
                                  document.querySelector("#name").value = "";
                                  document.querySelector("#phone").value = "";
                                  document.querySelector("#email").value = "";
@@ -198,6 +199,29 @@
                              });
                      })
                  </script>
+                 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+        $(document).ready(function() {
+            $("#subm").click(function() {
+                var recipientEmail ="gurpreetsinghmal@gmail.com";
+                var emailSubject = "sub";
+                var emailMessage = "mesg";
+                
+                $.ajax({
+                    type: "POST",
+                    url: "send_email.php",
+                    data: {
+                        recipientEmail: recipientEmail,
+                        emailSubject: emailSubject,
+                        emailMessage: emailMessage
+                    },
+                    success: function(response) {
+                        $("#msg").html(response);
+                    }
+                });
+            });
+        });
+    </script>
 
              </div>
          </div>
