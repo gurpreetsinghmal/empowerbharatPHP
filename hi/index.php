@@ -169,7 +169,7 @@
     <div style="background: #43816D;">
         <div class=" container mx-auto p-4 my-6">
             <div class="mb-5">
-                <div class="text-4xl tracking-wider text-white">Our Work</div>
+                <div class="text-4xl tracking-wider text-white">हमारा कार्य</div>
                 <div class="flex w-44">
                     <span class="h-1 w-1/3" style="background:#255F4C;"></span>
                     <span class="h-1 w-1/3" style="background: #7AC3A3;"></span>
@@ -183,7 +183,7 @@
                     <div class="bg-white rounded-lg p-4 flex flex-col items-center justify-between">
                         <div class="mt-6  flex justify-center items-center">
                             <a target="_blank" href="https://m.youtube.com/watch?v=g_VKoYCIeQk">
-                                <img class="h-40" src="images/work/sutra.png" />
+                                <img class="h-40" src="../../images/work/sutra.png" />
                             </a>
                         </div>
                         <div class=" text-center my-4 font-bold text-2xl text-green-800">
@@ -200,7 +200,7 @@
                     <div class="bg-white rounded-lg p-4 flex flex-col items-center justify-between">
                         <div class="mt-6  flex justify-center items-center">
                             <a target="_blank" href="https://youtube.com/playlist?list=PLjhA2yPw10ZIC3Oy-cjaWXng7tjRjlWB7">
-                                <img class="h-40" src="images/work/jobuwant.png" />
+                                <img class="h-40" src="../../images/work/jobuwant.png" />
                             </a>
                         </div>
                         <div class="uppercase text-center my-4 font-bold text-2xl text-green-800">
@@ -218,7 +218,7 @@
                     <div class="bg-white rounded-lg p-4 flex flex-col items-center justify-between">
                         <div class="mt-6  flex justify-center items-center">
                             <a target="_blank" href="https://streesafety.com">
-                                <img class="h-40 " src="images/work/streesafety.png" />
+                                <img class="h-40 " src="../../images/work/streesafety.png" />
                             </a>
                         </div>
                         <div class=" text-center my-4 font-bold text-2xl text-green-800">
