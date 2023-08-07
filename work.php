@@ -22,7 +22,8 @@
 
                 <div class="w-1/2 h-64 flex flex-col justify-between">
                     <div class="leading-relaxed md:text-5xl text-xl font-bold text-green-800">
-                        <div class="mb-2">Empower yourself and build<div> India by working with us</div>
+                        <div class="mb-2">Empower yourself and build</div> 
+                            India by working with us</div>
                     <div class="font-bold md:text-3xl tracking-wider mb-2 leading-loose">
                         Be an Empowerer
                     </div>
