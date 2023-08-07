@@ -209,7 +209,7 @@
                 var from=document.querySelector("#email").value;
                 var emailSubject =document.querySelector("#title").value;
                 var emailMessage =document.querySelector("#message").value;
-                
+                console.log(to+name+phone+from+emailSubject+emailMessage);
                 $.ajax({
                     type: "POST",
                     url: "send_email.php",

@@ -402,7 +402,7 @@
                                 <div class="md:mt-32 mt-48">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
-                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Muzamil Naik.jpg" />
+                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="../images/empowerers/Muzamil Naik.jpg" />
                                         </div>
                                         <div class="text-white text-xs md:text-xl ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">Muzamil Naik
@@ -484,7 +484,7 @@
                                 <div class="md:mt-32 mt-48">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
-                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Atul Pandey.jpg" />
+                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="../images/empowerers/Atul Pandey.jpg" />
                                         </div>
                                         <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">Atul Pandey
@@ -569,7 +569,7 @@
                                 <div class="md:mt-32 mt-48">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
-                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Shweta Prasad.jpg" />
+                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="../images/empowerers/Shweta Prasad.jpg" />
                                         </div>
                                         <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
@@ -652,7 +652,7 @@
                                 <div class="md:mt-32 mt-48">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
-                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Komal Rawat.jpeg" />
+                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="../images/empowerers/Komal Rawat.jpeg" />
                                         </div>
                                         <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
@@ -735,7 +735,7 @@
                                 <div class="md:mt-32 mt-48">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
-                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Srikar.jpg" />
+                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="../images/empowerers/Srikar.jpg" />
                                         </div>
                                         <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
@@ -821,7 +821,7 @@
                                 <div class="md:mt-32 mt-48">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
-                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Shraddha.jpg" />
+                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="../images/empowerers/Shraddha.jpg" />
                                         </div>
                                         <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
@@ -905,7 +905,7 @@
                                 <div class="md:mt-32 mt-48">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
-                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Sushmitha.jpeg" />
+                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="../images/empowerers/Sushmitha.jpeg" />
                                         </div>
                                         <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
@@ -987,7 +987,7 @@
                                 <div class="md:mt-32 mt-48">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
-                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Ajay Chhapola.jpg" />
+                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="../images/empowerers/Ajay Chhapola.jpg" />
                                         </div>
                                         <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
@@ -1070,7 +1070,7 @@
                                 <div class="md:mt-32 mt-48">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
-                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Omprakash.jpg" />
+                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="../images/empowerers/Omprakash.jpg" />
                                         </div>
                                         <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
@@ -1153,7 +1153,7 @@
                                 <div class="md:mt-32 mt-48">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
-                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Harpreet Singh.jpg" />
+                                            <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="../images/empowerers/Harpreet Singh.jpg" />
                                         </div>
                                         <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
