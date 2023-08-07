@@ -112,7 +112,6 @@
                         <span class="h-1 w-1/3" style="background: #FCDF7D;"></span>
                     </div>
                 </div>
-
             </div>
             <div class="flex  md:flex-row flex-col-reverse text-xl w-full mb-6">
                 <div id="expandableContent" class="mb-2 transition-all duration-300  leading-loose text-justify">
