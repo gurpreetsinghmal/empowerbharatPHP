@@ -8,8 +8,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $subject = "empowerbharat website : ";
     $message = $_POST["emailMessage"];
     
-    $headers = "From: test@gmail.com\r\n";
-    $headers .= "Reply-To:test@gmail.com\r\n";
+    $headers = "From: sender@example.com\r\n";
+    $headers .= "Reply-To: sender@example.com\r\n";
     $headers .= "MIME-Version: 1.0\r\n";
     $headers .= "Content-type: text/html; charset=utf-8\r\n";
 
