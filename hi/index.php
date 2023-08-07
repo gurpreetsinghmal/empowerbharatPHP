@@ -324,7 +324,7 @@
             </div>
 
             <div class="tracking-widest w-4/5 mb-6 md:text-left text-center mx-auto text-green-800 font-bold md:text-2xl text-xl">
-                WHAT THEY SAY ABOUT US
+            क्या कहते है हमारे बारे 
             </div>
 
             <div class="h-96 md:w-4/5 mb-6 rounded-lg mx-auto" style="background: #7AC3A3;">
@@ -1201,7 +1201,7 @@
     <div>
         <div class="container mx-auto p-4 my-6">
             <div class="mb-5">
-                <div class="text-4xl md:text-left text-center tracking-wider">Our Partners</div>
+                <div class="text-4xl md:text-left text-center tracking-wider">हमारे पार्टनर्स</div>
                 <div class="flex md:justify-start justify-center ">
                     <div class="flex w-60">
                         <span class="h-1 w-1/3" style="background:#255F4C;"></span>
