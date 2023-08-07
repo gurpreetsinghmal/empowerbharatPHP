@@ -2,11 +2,17 @@
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $to = $_POST["to"];
-    // $name = $_POST["name"];
-    // $phone = $_POST["phone"];
+     $name = $_POST["name"];
+     $phone = $_POST["phone"];
      $from= $_POST["from"];
-    $subject = "empowerbharat website : ";
-    $message = $_POST["emailMessage"];
+     $query=$_POST["emailSubject"];
+     $message = $_POST["emailMessage"];
+    $subject = "empowerbharat website : \n".
+    "name=".$name."\n".
+    "phone=".$phone."\n".
+    "email=".$from."\n".
+    "query=".$query."\n".
+    "message=".$message."\n";
     
     $headers = "From:sender@empowerbharat.com\r\n";
     $headers .= "Reply-To:".$from."\r\n";
