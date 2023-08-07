@@ -248,7 +248,7 @@
     <div>
         <div class="container mx-auto p-4 my-6">
             <div class="mb-5">
-                <div class="text-4xl md:text-left text-center tracking-wider">Join Us</div>
+                <div class="text-4xl md:text-left text-center tracking-wider">जुड़िए</div>
                 <div class="flex md:justify-start justify-center ">
                     <div class="flex w-44">
                         <span class="h-1 w-1/3" style="background:#255F4C;"></span>
@@ -262,7 +262,7 @@
                 <div class="grid md:grid-cols-4 grid-cols-2 gap-4 w-4/5">
                     <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
                         <div class="md:m-6 m-2 flex md:h-64 justify-center items-center">
-                            <img src="images/join/Sponsers.jpg" class="h-36 md:h-48 md:w-48" />
+                            <img src="../../images/join/Sponsers.jpg" class="h-36 md:h-48 md:w-48" />
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
@@ -271,7 +271,7 @@
                     </div>
                     <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
                         <div class="md:m-6 m-2 flex md:h-64 justify-center items-center">
-                            <img src="images/join/partner.jpg" class="h-36 md:h-48 md:w-48" />
+                            <img src="../../images/join/partner.jpg" class="h-36 md:h-48 md:w-48" />
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
@@ -280,7 +280,7 @@
                     </div>
                     <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
                         <div class="md:m-6 m-2 flex md:h-64 justify-center items-center">
-                            <img src="images/join/employee.jpg" class="h-36 md:h-48 md:w-48" />
+                            <img src="../../images/join/employee.jpg" class="h-36 md:h-48 md:w-48" />
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
@@ -289,7 +289,7 @@
                     </div>
                     <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
                         <div class="md:m-6 m-2 flex md:h-64 justify-center items-center">
-                            <img src="images/join/intern.jpg" class="h-36 md:h-48 md:w-48" />
+                            <img src="../../images/join/intern.jpg" class="h-36 md:h-48 md:w-48" />
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
