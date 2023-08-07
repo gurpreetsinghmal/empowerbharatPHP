@@ -112,8 +112,8 @@
                     </div>
                 </div>
             </div>
-            <div class="flex  md:flex-row flex-col-reverse text-xl w-full mb-6">
-                <div id="expandableContent" class="mb-2 transition-all duration-300  leading-loose text-justify">
+            <div class="flex  md:flex-row flex-col-reverse md:text-xl w-full mb-6">
+                <div id="expandableContent" class="mb-2 transition-all duration-300  md:leading-loose text-justify">
                     <iframe class="float-right ml-8 mt-3 w-full h-72 md:w-1/2 md:h-[450px] border border-gray-200 rounded-lg " src="https://www.youtube.com/embed/ryFybCODyyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen>
 
                     </iframe>
