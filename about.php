@@ -78,7 +78,7 @@
                 
                 <div class="tracking-wider text-xl mb-2 leading-loose px-12  text-white text-justify">
                 Our Vision is To bridge the Rural-Urban economic divide at grass-root level by providing quality education for children, generating employment for struggling youth, and safety training for women to make them self-reliant.
-                an economic divide at grass-root level by providing quality education for children and generating employment for struggling youth to make them self-reliant.
+                
 
                 </div>
                
@@ -169,7 +169,7 @@
                                 <div class="h-36">
                                     <div class="bg-white h-full p-4 mx-16 rounded-lg">
                                         <div class="flex justify-evenly h-full items-center">
-                                          <a target="_blank" href="http://www.anantcode.com" >  <img class="h-16 md:h-20 " src="images/partner/Technomind logo.jpg" /></a>
+                                          <a target="_blank" href="http://www.anantcode.com" >  <img class="h-16 md:h-20 " src="images/partner/Technominds.jpg" /></a>
                               
                                           <a target="_blank" href="#" > <img class="h-16 md:h-32 " src="images/partner/Shishti Anant Logo.png" /></a>
                                          </div>
