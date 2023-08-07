@@ -2,11 +2,11 @@
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $to = $_POST["to"];
-    $name = $_POST["name"];
-    $phone = $_POST["phone"];
-    $from= $_POST["from"];
-    $subject = "empowerbharat website : ".$_POST["emailSubject"];
-    $message = $_POST["emailMessage"].$from;
+    // $name = $_POST["name"];
+    // $phone = $_POST["phone"];
+    // $from= $_POST["from"];
+    $subject = "empowerbharat website : ";
+    $message = $_POST["emailMessage"];
     
     $headers = "From: test@gmail.com\r\n";
     $headers .= "Reply-To:test@gmail.com\r\n";
@@ -16,7 +16,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $mail_sent = mail($to, $subject, $message, $headers);
 
     if ($mail_sent) {
-        echo "Email sent successfully!";
+        echo "Email sent successfully to ".$to;
     } else {
         echo "Email sending failed.";
     }
