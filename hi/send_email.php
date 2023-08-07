@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $from= $_POST["from"];
     $subject = "empowerbharat website : ".$_POST["emailSubject"];
     $message = $_POST["emailMessage"];
-    // echo "<script>alert($to)</script>";   
+    echo $from;  
     $headers = "From: ".$from."\r\n";
     $headers .= "Reply-To: ".$from."\r\n";
     $headers .= "MIME-Version: 1.0\r\n";
