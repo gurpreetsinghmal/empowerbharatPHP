@@ -119,7 +119,7 @@
                     <iframe class="float-right ml-8 mt-3 w-full h-72 md:w-1/2 md:h-[450px] border border-gray-200 rounded-lg " src="https://www.youtube.com/embed/ryFybCODyyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen>
 
                     </iframe>
-                    An Initiative to Revive Rural India '', launched on India’s 75th Independence Day with the vision to bridge the Rural-Urban economic divide at the grass-root level by providing quality education for children and generating employment for struggling youth to make them self-reliant.
+                    An Initiative to Revive Rural India, launched on India’s 75th Independence Day with the vision to bridge the Rural-Urban economic divide at the grass-root level by providing quality education for children and generating employment for struggling youth to make them self-reliant.
 
                     Our model is designed to address the key underlying problems of development through a practical and sustainable process. Poor quality education for young kids would be tackled by providing e-tutorial apps and books and setting up Smart and Unique learning centers in small towns and villages.
 

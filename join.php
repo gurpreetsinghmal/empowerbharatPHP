@@ -13,15 +13,16 @@
     ?>
 
 
-    <!-- slider -->
-    <div class=" md:rounded-br-[400px] rounded-br-[100px] flex items-center bg-green-100 md:h-[850px]">
+     <!-- slider -->
+     <div class=" md:rounded-br-[400px] rounded-br-[100px] flex items-center bg-green-100 md:h-[850px]">
         <div class="container mx-auto p-4 my-6">
 
             <div class="flex items-center w-full">
 
                 <div class="w-1/2 h-64 flex flex-col justify-between">
-                    <div class="leading-relaxed md:text-5xl text-xl font-bold text-green-800">
-                        Empower yourself and build <br />India by working with us</div>
+                    <div class="md:text-5xl text-xl font-bold text-green-800">
+                        <div class="mb-4">Empower yourself and build</div>
+                        <div class="">India by working with us</div></div>
                     <div class="font-bold md:text-3xl tracking-wider mb-2 leading-loose">
                         Be an Empowerer
                     </div>
@@ -36,6 +37,7 @@
             </div>
         </div>
     </div>
+
 
       <!-- partner -->
       <div class="container mx-auto p-4 my-6">
@@ -56,7 +58,7 @@
             <div class="w-full">
                 <div class="text-2xl font-bold text-green-800 my-2">Partner with us. Let’s together and create something
                     meaningful!</div>
-                <div class="tracking-wider text-xl  mb-2 text-justify leading-loose">
+                <div class="tracking-wider   mb-2 text-justify leading-loose">
                     At Empower Bharat, collaboration is at the heart of everything we do. We work together with many organizations and create sustainable solutions and drive meaningful impact in the lives of those in need. We invite like-minded partners to join forces with us, share our vision, and contribute to our collective mission of transforming rural India. Partner with us and be a part of an inspiring journey where collaboration leads to empowerment, and together, we can create a brighter and more prosperous future for everyone.
                 </div>
                 <div class="flex justify-center md:justify-start">
@@ -85,7 +87,7 @@
             </div>
             <div class="w-full">
                 <div class="text-2xl font-bold text-green-800 my-2">Sponsor with Purpose. Join us in making a meaningful difference!</div>
-                <div class="tracking-wider text-xl text-justify mb-2 leading-loose">At Empower Bharat, we firmly believe that sponsorship can be a powerful catalyst for transforming lives. By becoming a sponsor, you have the opportunity to play a significant role in empowering communities and driving positive change. Join hands with us as we embark on this transformative journey to create a brighter and more equitable future for all. Together, let's make a lasting impact that uplifts and empowers those in need.
+                <div class="tracking-wider text-justify mb-2 leading-loose">At Empower Bharat, we firmly believe that sponsorship can be a powerful catalyst for transforming lives. By becoming a sponsor, you have the opportunity to play a significant role in empowering communities and driving positive change. Join hands with us as we embark on this transformative journey to create a brighter and more equitable future for all. Together, let's make a lasting impact that uplifts and empowers those in need.
 
                 </div>
                 <div class="flex justify-center md:justify-start">
@@ -123,6 +125,7 @@
         </div>
     </div>
 
+    
     <!-- intgern -->
     <div class="container mx-auto p-4 my-6">
         <div class="my-8">
@@ -141,7 +144,7 @@
             </div>
             <div class="w-full">
                 <div class="text-2xl font-bold text-green-800 my-2">Be the Catalyst for Change. Join as an intern and ignite transformation!</div>
-                <div class="tracking-wider text-xl text-justify mb-2 leading-loose">Are you ready to be the driving force behind social change? As an intern at Empower Bharat, you'll be stepping into a world of endless possibilities where your actions have a profound impact on rural communities. Join our dynamic and inclusive team, gain valuable experience, and embrace the spirit of transformation as we work towards a more promising future for all. Together, let's ignite the spark of positive change and make a real difference in the lives of those we serve.
+                <div class="tracking-wider  text-justify mb-2 leading-loose">Are you ready to be the driving force behind social change? As an intern at Empower Bharat, you'll be stepping into a world of endless possibilities where your actions have a profound impact on rural communities. Join our dynamic and inclusive team, gain valuable experience, and embrace the spirit of transformation as we work towards a more promising future for all. Together, let's ignite the spark of positive change and make a real difference in the lives of those we serve.
 
                 </div>
                 <div class="flex justify-center md:justify-start">
