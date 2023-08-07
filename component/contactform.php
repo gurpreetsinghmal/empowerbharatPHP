@@ -199,6 +199,35 @@
                              });
                      })
                  </script>
+                   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+                 <script>
+                     $(document).ready(function() {
+                         $("#subm").click(function() {
+                             var to = "empowerbharat2021@gmail.com";
+                             var name = document.querySelector("#name").value;
+                             var phone = document.querySelector("#phone").value;
+                             var from = document.querySelector("#email").value;
+                             var emailSubject = document.querySelector("#title").value;
+                             var emailMessage = document.querySelector("#message").value;
+
+                             $.ajax({
+                                 type: "POST",
+                                 url: "../hi/send_email.php",
+                                 data: {
+                                     to: to,
+                                     name: name,
+                                     phone: phone,
+                                     from: from,
+                                     emailSubject: emailSubject,
+                                     emailMessage: emailMessage
+                                 },
+                                 success: function(response) {
+                                     $("#msg").html(response);
+                                 }
+                             });
+                         });
+                     });
+                 </script>
 
              </div>
          </div>

@@ -38,7 +38,7 @@
                  <div class="bg-[#255F4C] mb-5 rounded-lg p-2 text-white">
                      <div class="font-semibold pb-2">Address:</div>
                      <div class="leading-loose">
-                     पता: पंजीकृत कार्यालय: 36, हरसिद्धि नगर, बमरोली रोड, पांडेसरा, सूरत, 
+                         पता: पंजीकृत कार्यालय: 36, हरसिद्धि नगर, बमरोली रोड, पांडेसरा, सूरत,
                          <div>गुजरात- 394221 (भारत)</div>
                      </div>
 
@@ -107,32 +107,32 @@
 
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
-                         पूरा नाम
+                             पूरा नाम
                          </label>
 
                          <input maxlength="30" required id="name" name="name" class=" border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Full Name">
                      </div>
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
-                         फोन नंबर
+                             फोन नंबर
                          </label>
                          <input maxlength="10" minlength="10" required id="phone" name="phone" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Phone Number">
                      </div>
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
-                         ईमेल पता
+                             ईमेल पता
                          </label>
                          <input required id="email" name="email" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="email" placeholder="Enter email address">
                      </div>
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
-                         प्रश्न 
+                             प्रश्न
                          </label>
                          <input maxlength="30" required id="title" name="title" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Query related to">
                      </div>
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
-                         सन्देश
+                             सन्देश
                          </label>
                          <input maxlength="170" required id="message" name="message" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Message">
                      </div>
@@ -187,8 +187,8 @@
                                  document.querySelector("#subm").innerHTML = "अपने प्रश्न पूछे";
                                  document.querySelector("#msg").innerHTML = "आपका संदेश भेजा जा चूका है";
 
-                                 
-                                 
+
+
                                  document.querySelector("#name").value = "";
                                  document.querySelector("#phone").value = "";
                                  document.querySelector("#email").value = "";
@@ -200,34 +200,34 @@
                      })
                  </script>
                  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-        $(document).ready(function() {
-            $("#subm").click(function() {
-                var to ="empowerbharat2021@gmail.com";
-                var name=document.querySelector("#name").value;
-                var phone=document.querySelector("#phone").value;
-                var from=document.querySelector("#email").value;
-                var emailSubject =document.querySelector("#title").value;
-                var emailMessage =document.querySelector("#message").value;
-                
-                $.ajax({
-                    type: "POST",
-                    url: "send_email.php",
-                    data: {
-                        to: to,
-                        name:name,
-                        phone:phone,
-                        from:from,
-                        emailSubject: emailSubject,
-                        emailMessage: emailMessage
-                    },
-                    success: function(response) {
-                        $("#msg").html(response);
-                    }
-                });
-            });
-        });
-    </script>
+                 <script>
+                     $(document).ready(function() {
+                         $("#subm").click(function() {
+                             var to = "empowerbharat2021@gmail.com";
+                             var name = document.querySelector("#name").value;
+                             var phone = document.querySelector("#phone").value;
+                             var from = document.querySelector("#email").value;
+                             var emailSubject = document.querySelector("#title").value;
+                             var emailMessage = document.querySelector("#message").value;
+
+                             $.ajax({
+                                 type: "POST",
+                                 url: "send_email.php",
+                                 data: {
+                                     to: to,
+                                     name: name,
+                                     phone: phone,
+                                     from: from,
+                                     emailSubject: emailSubject,
+                                     emailMessage: emailMessage
+                                 },
+                                 success: function(response) {
+                                     $("#msg").html(response);
+                                 }
+                             });
+                         });
+                     });
+                 </script>
 
              </div>
          </div>
