@@ -1231,7 +1231,7 @@
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">Technical Partner</div>
                     <div class=" flex justify-center items-center">
-                        <img class="h-24" src="images/partner/Technomind logo.jpg" />
+                        <img class="h-24" src="images/partner/Technominds.jpg" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
