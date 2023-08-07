@@ -4,12 +4,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $to = $_POST["to"];
     // $name = $_POST["name"];
     // $phone = $_POST["phone"];
-    // $from= $_POST["from"];
+     $from= $_POST["from"];
     $subject = "empowerbharat website : ";
     $message = $_POST["emailMessage"];
     
-    $headers = "From: sender@example.com\r\n";
-    $headers .= "Reply-To: sender@example.com\r\n";
+    $headers = "From: sender@empowerbharat.com\r\n";
+    $headers .= "Reply-To:".$from."\r\n";
     $headers .= "MIME-Version: 1.0\r\n";
     $headers .= "Content-type: text/html; charset=utf-8\r\n";
 
