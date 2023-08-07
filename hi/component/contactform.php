@@ -134,7 +134,7 @@
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
                          सन्देश
                          </label>
-                         <input maxlength="70" required id="message" name="message" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Message">
+                         <input maxlength="170" required id="message" name="message" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Message">
                      </div>
                      <div class="mb-4">
                          <button class="w-full cursor-pointer text-center bg-[#255F4C] hover:bg-green-900 text-white font-bold py-1 px-4 rounded-full  " type="submit">
