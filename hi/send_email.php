@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $subject = "empowerbharat website : ";
     $message = $_POST["emailMessage"];
     
-    $headers = "From: sender@empowerbharat.com\r\n";
+    $headers = "From:".$from."\r\n";
     $headers .= "Reply-To:".$from."\r\n";
     $headers .= "MIME-Version: 1.0\r\n";
     $headers .= "Content-type: text/html; charset=utf-8\r\n";
