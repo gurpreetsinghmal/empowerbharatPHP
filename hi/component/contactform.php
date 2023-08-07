@@ -110,31 +110,31 @@
                          पूरा नाम
                          </label>
 
-                         <input required id="name" name="name" class=" border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Full Name">
+                         <input maxlength="30" required id="name" name="name" class=" border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Full Name">
                      </div>
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
                          फोन नंबर
                          </label>
-                         <input required id="phone" name="phone" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Phone Number">
+                         <input maxlength="10" minlength="10" required id="phone" name="phone" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Phone Number">
                      </div>
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
                          ईमेल पता
                          </label>
-                         <input required id="email" name="email" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter email address">
+                         <input required id="email" name="email" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="email" placeholder="Enter email address">
                      </div>
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
                          प्रश्न 
                          </label>
-                         <input required id="title" name="title" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Query related to">
+                         <input maxlength="30" required id="title" name="title" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Query related to">
                      </div>
                      <div class="mb-4">
                          <label class="block text-gray-700 text-sm font-bold mb-2" for="username">
                          सन्देश
                          </label>
-                         <input required id="message" name="message" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Message">
+                         <input maxlength="70" required id="message" name="message" class="appearance-none border border-slate-500 rounded-full w-full py-2 px-3 text-gray-700 leading-tight " type="text" placeholder="Enter Message">
                      </div>
                      <div class="mb-4">
                          <button class="w-full cursor-pointer text-center bg-[#255F4C] hover:bg-green-900 text-white font-bold py-1 px-4 rounded-full  " type="submit">
