@@ -103,7 +103,7 @@
     <div>
         <div class="container mx-auto p-4 mt-6">
             <div class="mb-5 w-full">
-                <div class="text-4xl md:text-left text-center tracking-wider">About Us</div>
+                <div class="text-4xl md:text-left text-center tracking-wider">हमारे बारे में</div>
                 <div class="flex md:justify-start justify-center ">
                     <div class="flex w-44">
                         <span class="h-1 w-1/3" style="background:#255F4C;"></span>
@@ -117,16 +117,10 @@
                     <iframe class="float-right ml-8 mt-3 w-full h-72 md:w-1/2 md:h-[450px] border border-gray-200 rounded-lg " src="https://www.youtube.com/embed/ryFybCODyyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen>
 
                     </iframe>
-                    An Initiative to Revive Rural India, launched on India’s 75th Independence Day with the vision to bridge the Rural-Urban economic divide at the grass-root level by providing quality education for children and generating employment for struggling youth to make them self-reliant.
-
-                    Our model is designed to address the key underlying problems of development through a practical and sustainable process. Poor quality education for young kids would be tackled by providing e-tutorial apps and books and setting up Smart and Unique learning centers in small towns and villages.
-
-                    Trained, motivated youth would be employed here as well. To promptly tackle unemployment on a larger scale, our JobUWant Portal will provide free alerts for all government job vacancies, along with exam strategies and skill development programs.
-
-                    Lastly, we envisage a safe and independent environment for women through safety training, skill development workshops, and most importantly, through our one-of-a-kind STREE Podcast.
-
-                    With Empower Bharat, we strive to make a unified, empowered India a reality.
-
+                    एम्पावर भारत - ग्रामीण भारत को पुनर्जीवित करने के लिए एक पहल है, जिसे "भारत के 75वें स्वतंत्रता दिवस" पर शुरू किया गया था। इसका उद्देश्य ग्रामीण-शहरी आर्थिक अंतर को मूल स्तर पर कम करना, बच्चों के लिए गुणवत्ता युक्त शिक्षा प्रदान करना और रोजगार पाने के लिए संघर्ष कर रहें युवाओं  के लिए रोजगार पैदा कर उन्हें स्वावलंबी बनाना है। हमारा मॉडल, विकास की राह में मूल समस्याओं को एक व्यावहारिक और सतत प्रक्रिया के माध्यम से समाधान करने के लिए डिज़ाइन किया गया है। बच्चों के लिए गुणवत्तापूर्ण शिक्षा को सुनिश्चित करने के लिए हम ई-ट्यूटोरियल ऐप्स और पुस्तकें प्रदान करने के साथ-साथ छोटे शहरों और गांवों में स्मार्ट और अद्भुत शिक्षा केंद्र स्थापित करेंगे।
+हमारे यहां प्रशिक्षित एवं प्रेरित युवाओं को रोजगार दिया जाएगा। बड़े पैमाने पर बेरोजगारी के तत्काल  समाधान के लिए हमारे "JOB U WANT" पोर्टल पर सभी सरकारी नौकरी की रिक्तियों के अलर्ट के साथ ही परीक्षा रणनीतियों और कौशल विकास कार्यक्रम मुफ़्त में प्रदान किए जाएंगे। 
+अंततः हम सुरक्षा प्रशिक्षण, कौशल विकास वर्कशॉप और सबसे महत्वपूर्ण रूप से हमारे  "STREE सेफ़्टी पॉडकास्ट" के माध्यम से महिलाओं के लिए एक सुरक्षित और स्वतंत्र माहौल की कल्पना करते हैं। "एम्पावर भारत" के साथ, हम संयुक्त सशक्त भारत बनाने का लक्ष्य रखते हैं।
+    
                 </div>
 
                 <!-- <div class="md:w-1/2 w-full md:flex justify-end md:ml-20 ">
