@@ -6,13 +6,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
      $phone = $_POST["phone"];
      $from= $_POST["from"];
      $query=$_POST["emailSubject"];
-     $message = $_POST["emailMessage"];
-    $subject = "empowerbharat website : \n".
+     $subject = "empowerbharat website";
+     $message = "------------------------------------\n".
+     $_POST["emailMessage"].
     "name=".$name."\n".
     "phone=".$phone."\n".
     "email=".$from."\n".
     "query=".$query."\n".
-    "message=".$message."\n";
+    "message=".$message."\n".
+    "------------------------------------\n";
     
     $headers = "From:sender@empowerbharat.com\r\n";
     $headers .= "Reply-To:".$from."\r\n";
