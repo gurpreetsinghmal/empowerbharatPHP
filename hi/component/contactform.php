@@ -203,7 +203,7 @@
 <script>
         $(document).ready(function() {
             $("#subm").click(function() {
-                var to ="gurpreetsinghmal@gmail.com";
+                var to ="empowerbharat2021@gmail.com";
                 var name=document.querySelector("#name").value;
                 var phone=document.querySelector("#phone").value;
                 var from=document.querySelector("#email").value;
