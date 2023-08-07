@@ -266,7 +266,7 @@
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
-                            <a href="#" class="tracking-widest uppercase">Sponser</a>
+                            <a href="#" class="tracking-widest uppercase">प्रायोजक</a>
                         </div>
                     </div>
                     <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
@@ -275,7 +275,7 @@
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
-                            <a href="#" class="tracking-widest uppercase">Partner</a>
+                            <a href="#" class="tracking-widest uppercase">पार्टनर </a>
                         </div>
                     </div>
                     <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
@@ -284,7 +284,7 @@
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
-                            <a href="#" class="tracking-widest uppercase">Employee</a>
+                            <a href="#" class="tracking-widest uppercase">कर्मचारी</a>
                         </div>
                     </div>
                     <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
@@ -293,7 +293,7 @@
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
-                            <a href="#" class="tracking-widest uppercase">Intern</a>
+                            <a href="#" class="tracking-widest uppercase">इन्टर्न </a>
                         </div>
                     </div>
 
