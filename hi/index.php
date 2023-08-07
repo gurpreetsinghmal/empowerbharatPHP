@@ -313,7 +313,7 @@
     <div>
         <div class="container mx-auto p-4 my-6">
             <div class="mb-5">
-                <div class="text-4xl md:text-left text-center tracking-wider">Empowerers</div>
+                <div class="text-4xl md:text-left text-center tracking-wider">एंपावरर्स </div>
                 <div class="flex md:justify-start justify-center ">
                     <div class="flex w-60">
                         <span class="h-1 w-1/3" style="background:#255F4C;"></span>
