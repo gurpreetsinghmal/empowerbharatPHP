@@ -1,16 +1,19 @@
 <?php
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $recipientEmail = $_POST["recipientEmail"];
-    $subject = $_POST["emailSubject"];
+    $to = $_POST["to"];
+    $name = $_POST["name"];
+    $phone = $_POST["phone"];
+    $from= $_POST["email"];
+    $subject = "empowerbharat website : ".$_POST["emailSubject"];
     $message = $_POST["emailMessage"];
 
-    $headers = "From: sender@example.com\r\n";
-    $headers .= "Reply-To: sender@example.com\r\n";
+    $headers = "From: ".$from."\r\n";
+    $headers .= "Reply-To: ".$from."\r\n";
     $headers .= "MIME-Version: 1.0\r\n";
     $headers .= "Content-type: text/html; charset=utf-8\r\n";
 
-    $mail_sent = mail($recipientEmail, $subject, $message, $headers);
+    $mail_sent = mail($to, $subject, $message, $headers);
 
     if ($mail_sent) {
         echo "Email sent successfully!";

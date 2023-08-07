@@ -203,15 +203,20 @@
 <script>
         $(document).ready(function() {
             $("#subm").click(function() {
-                var recipientEmail ="gurpreetsinghmal@gmail.com";
-                var emailSubject = "sub";
-                var emailMessage = "mesg";
+                var to ="gurpreetsinghmal@gmail.com";
+                var name=document.querySelector("#name").value;
+                var phone=document.querySelector("#phone").value;
+                var from=document.querySelector("#email").value;
+                var emailSubject =document.querySelector("#title").value;
+                var emailMessage =document.querySelector("#message").value;
                 
                 $.ajax({
                     type: "POST",
                     url: "send_email.php",
                     data: {
-                        recipientEmail: recipientEmail,
+                        to: to,
+                        name:name,
+                        phone:phone,
                         emailSubject: emailSubject,
                         emailMessage: emailMessage
                     },
