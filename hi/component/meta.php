@@ -17,7 +17,7 @@
 <meta property="og:url" content="https://www.empowerbharat.in">
 
 
-<link rel="icon" type="image/x-icon" href="../../images/favicon.ico">
+<link rel="icon" type="image/x-icon" href="../images/favicon.ico">
 <script src="https://cdn.tailwindcss.com"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

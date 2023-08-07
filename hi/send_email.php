@@ -4,10 +4,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $to = $_POST["to"];
     $name = $_POST["name"];
     $phone = $_POST["phone"];
-    $from= $_POST["email"];
+    $from= $_POST["from"];
     $subject = "empowerbharat website : ".$_POST["emailSubject"];
     $message = $_POST["emailMessage"];
-
+    // echo "<script>alert($to)</script>";   
     $headers = "From: ".$from."\r\n";
     $headers .= "Reply-To: ".$from."\r\n";
     $headers .= "MIME-Version: 1.0\r\n";
