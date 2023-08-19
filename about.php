@@ -171,7 +171,7 @@
                                         <div class="flex justify-evenly h-full items-center">
                                           <a target="_blank" href="http://www.anantcode.com" >  <img class="h-16 md:h-20 " src="images/partner/Technominds.jpg" /></a>
                               
-                                          <a target="_blank" href="#" > <img class="h-16 md:h-32 " src="images/partner/Shishti Anant Logo.png" /></a>
+                                          <a target="_blank" href="http://shishtianantfoundation.in/" > <img class="h-16 md:h-32 " src="images/partner/Shishti Anant Logo.png" /></a>
                                          </div>
                                     </div>
 
@@ -185,10 +185,10 @@
                                 <div class="h-36">
                                     <div class="bg-white h-full p-4 mx-16 rounded-lg">
                                         <div class="flex justify-evenly h-full items-center">
-                                        <a target="_blank" href="#" > 
+                                        <a target="_blank" href="https://socialsummit.iitr.ac.in/" > 
                                             <img class="h-16 md:h-32 " src="images/partner/Summit_23 logo.png" />
                                         </a>
-                                        <a target="_blank" href="#" >    
+                                        <a target="_blank" href="https://localwale.in/#/home" >    
                                         <img class="h-16 md:h-32 " src="images/partner/LOCAL-WALE-LOGO-3.jpg" />
                                         </a>    
                                     </div>
@@ -204,7 +204,7 @@
                                 <div class="h-36">
                                     <div class="bg-white h-full p-4 mx-16 rounded-lg">
                                         <div class="flex justify-evenly h-full items-center">
-                                        <a target="_blank" href="#" > 
+                                        <a target="_blank" href="https://nss.iitr.ac.in/" > 
                                             <img class="h-16 md:h-32 " src="images/partner/nss_iitr_logo new.png" />
                                         </a>
                                          
@@ -265,10 +265,10 @@
        
             <div class="md:flex w-full mb-6">
                 <div class="md:w-2/3 mx-auto  flex-col md:flex-row items-center justify-evenly flex justify-center ">
-                <a href="#" target="_blank" class="flex justify-center" >    
+                <a href="https://www.facebook.com/photo/?fbid=176935705113858&set=a.161100220030740" target="_blank" class="flex justify-center" >    
                 <img class="w-1/2 m-2" src="images/about/nss eb training partner.png" />
                 </a>
-                <a href="#" target="_blank" class="flex justify-center" >  
+                <a href="https://www.facebook.com/photo/?fbid=177116135095815&set=a.161100220030740" target="_blank" class="flex justify-center" >  
                 <img class="w-1/2 m-2" src="images/about/nss stree women empowerment.png" />
                 </a>
             </div>

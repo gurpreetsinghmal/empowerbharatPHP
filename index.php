@@ -271,7 +271,7 @@
                             <img src="images/join/Sponsers.jpg" class="h-24 md:h-28 lg:h-40" />
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
-                            <a href="#" class="tracking-widest uppercase">Sponser</a>
+                            <a href="join.php" class="tracking-widest uppercase">Sponser</a>
                         </div>
                     </div>
                     <div class="bg-white rounded-lg md:h-52 lg:h-72 h-40 border border-2 border-green-800  flex flex-col items-center justify-between">
@@ -280,7 +280,7 @@
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
-                            <a href="#" class="tracking-widest uppercase">Partner</a>
+                            <a href="join.php" class="tracking-widest uppercase">Partner</a>
                         </div>
                     </div>
                     <div class="bg-white rounded-lg md:h-52 lg:h-72 h-40 border border-2 border-green-800  flex flex-col items-center justify-between">
@@ -289,7 +289,7 @@
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
-                            <a href="#" class="tracking-widest uppercase">Employee</a>
+                            <a href="join.php" class="tracking-widest uppercase">Employee</a>
                         </div>
                     </div>
                     <div class="bg-white rounded-lg md:h-52 lg:h-72 h-40 border border-2 border-green-800  flex flex-col items-center justify-between">
@@ -298,7 +298,7 @@
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
-                            <a href="#" class="tracking-widest uppercase">Intern</a>
+                            <a href="join.php" class="tracking-widest uppercase">Intern</a>
                         </div>
                     </div>
 
@@ -1221,32 +1221,41 @@
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">NGO Partner</div>
                     <div class=" flex justify-center items-center">
-
+                        <a target="_blank" href="http://shishtianantfoundation.in/">
                         <img class="h-24" src="images/partner/Shishti Anant Logo.png" />
+                        </a>
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">Technical Partner</div>
                     <div class=" flex justify-center items-center">
+                    <a target="_blank" href="http://www.anantcode.com">
                         <img class="h-24" src="images/partner/Technominds.jpg" />
+                    </a>
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">Corporate Partner</div>
                     <div class=" flex justify-center items-center">
+                    <a target="_blank" href="https://localwale.in/#/home">
                         <img class="h-24" src="images/partner/LOCAL-WALE-LOGO-3.jpg" />
+                    </a>
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-4">Social Partner</div>
                     <div class=" flex justify-center items-center">
+                    <a target="_blank" href="https://nss.iitr.ac.in/">
                         <img class="h-24" src="images/partner/nss_iitr_logo new.png" />
+                    </a>
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
                     <div class="text-center font-thin p-2">College Festival Partner</div>
                     <div class=" flex justify-center items-center">
+                        <a target="_blank" href="https://socialsummit.iitr.ac.in/" >
                         <img class="h-24" src="images/partner/Summit_23 logo.png" />
+                        </a>
                     </div>
                 </div>
 
