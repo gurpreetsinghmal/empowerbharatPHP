@@ -20,7 +20,7 @@
             <div class="flex items-center w-full">
 
                 <div class="w-1/2 h-64 flex flex-col justify-between">
-                    <div class="md:text-5xl text-xl font-bold text-green-800">
+                    <div class="md:text-2xl lg:text-3xl xl:text-5xl text-xl font-bold text-green-800">
                         <div class="md:mb-4">Empower yourself and build</div>
                         <div class="">India by working with us</div></div>
                     <div class="font-bold md:text-3xl tracking-wider mb-2 leading-loose">
