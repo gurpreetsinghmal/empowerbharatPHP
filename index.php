@@ -332,11 +332,11 @@
                 WHAT THEY SAY ABOUT US
             </div>
 
-            <div class="h-96 md:w-4/5 mb-6 rounded-lg mx-auto" style="background: #7AC3A3;">
+            <div class="h-[550px] md:w-4/5 mb-6 rounded-lg mx-auto" style="background: #7AC3A3;">
 
-                <div id="controls-carousel" class="relative w-full" data-carousel="static">
+                <div id="controls-carousel" class="relative h-full" data-carousel="static">
                     <!-- Carousel wrapper -->
-                    <div class="relative  overflow-hidden rounded-lg h-96 xs:h-[300px]">
+                    <div class="relative  overflow-hidden rounded-lg md:h-96 h-[550px]">
                         <!-- Item 1 -->
                         <div class="hidden duration-700 md:p-12 p-4 ease-in-out" data-carousel-item>
                             <div class="">
@@ -369,7 +369,7 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose  text-xs  md:text-xl md:h-40 flex items-center p-1 text-justify">
+                                            <div class="md:leading-loose  text-xs md:text-xs lg:text-md xl:text-lg  xl:text-lg md:h-40 flex items-center p-1 text-justify">
                                                 I am grateful to Empower Bharat for giving me the opportunity and choosing me to work. Empower Bharat gave me my first job internship and introduced me to the working world. I was a little nervous because it was my first experience working remotely for an internship, but the encouraging environment made everything easier.
 
                                             </div>
@@ -404,12 +404,12 @@
                                     </div>
 
                                 </div>
-                                <div class="md:mt-32 mt-48">
+                                <div class="md:mt-32 mt-[350px]">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
                                             <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Muzamil Naik.jpg" />
                                         </div>
-                                        <div class="text-white text-xs md:text-xl ml-6 flex flex-col justify-evenly">
+                                        <div class="text-white text-xs lg:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">Muzamil Naik
                                             </div>
                                             <div>Book Content Writer,</div>
@@ -451,7 +451,7 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose  text-justify text-xs md:text-xs lg:text-md xl:text-lg  md:h-40 flex items-center p-1 ">
                                                 मेरा हमेशा से यह मानना रहा है कि गांवों की बेहतरी के बिना हमारे देश की बेहतरी नहीं हो सकती है। गांव कोई अतीत नहीं हैं बल्कि भविष्य हैं। मुझे इंपावर भारत का विचार काफी अच्छा लगा। मुझे इस बात से बेहद खुशी हुई की आज भी ऐसी सस्थाएं हैं जो गांव केंद्रित काम करना चाहती हैं। मैं एंपावर भारत के बेहतर भविष्य की कामना करता हूं |
 
                                             </div>
@@ -486,12 +486,12 @@
                                     </div>
 
                                 </div>
-                                <div class="md:mt-32 mt-48">
+                                <div class="md:mt-32 mt-[350px]">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
                                             <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Atul Pandey.jpg" />
                                         </div>
-                                        <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
+                                        <div class="text-white text-xs lg:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">Atul Pandey
 
 
@@ -536,7 +536,7 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-xs lg:text-md xl:text-lg  md:h-40 flex items-center p-1 ">
                                                 It's a matter of great pride for me to be associated with "Empower Bharat". For me, it is more than a company where the employees are like a family and always ready to help each other. After joining EB, I learned a lot of new things. This is not just a company, it's an emotion for me.
 
                                             </div>
@@ -571,12 +571,12 @@
                                     </div>
 
                                 </div>
-                                <div class="md:mt-32 mt-48">
+                                <div class="md:mt-32 mt-[350px]">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
                                             <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Shweta Prasad.jpg" />
                                         </div>
-                                        <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
+                                        <div class="text-white text-xs lg:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
                                                 Shweta Prasad
                                             </div>
@@ -619,7 +619,7 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose  text-justify text-xs md:text-xs lg:text-md xl:text-lg   flex items-center p-1 ">
                                                 Thank you so much for giving me the opportunity to intern with Empower Bharat. I have learned so much and had the chance to work with some amazing people and on great projects. I am so grateful to have you as a mentor and appreciate your mentorship and the healthy environment you provided.
 
                                             </div>
@@ -654,12 +654,12 @@
                                     </div>
 
                                 </div>
-                                <div class="md:mt-32 mt-48">
+                                <div class="md:mt-32 mt-[350px]">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
                                             <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Komal Rawat.jpeg" />
                                         </div>
-                                        <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
+                                        <div class="text-white text-xs lg:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
                                                 Komal Rawat
                                             </div>
@@ -702,7 +702,7 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-xs lg:text-md xl:text-lg  md:h-40 flex items-center p-1 ">
                                                 I feel pleasure to work in Empower Bharat as an intern. Just felt as I was In my family. Gained a lot of knowledge from my colleagues. Developed my communication skills and had good support and guidance from my fellow colleagues. Thank you for believing in me and giving me this opportunity to me.
 
                                             </div>
@@ -737,12 +737,12 @@
                                     </div>
 
                                 </div>
-                                <div class="md:mt-32 mt-48">
+                                <div class="md:mt-32 mt-[350px]">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
                                             <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Srikar.jpg" />
                                         </div>
-                                        <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
+                                        <div class="text-white text-xs lg:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
                                                 Kodukula Srikar Narayan
 
@@ -788,7 +788,7 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-xs lg:text-md xl:text-lg  md:h-40 flex items-center p-1 ">
                                                 Empower Bharat is an incredible place to work. The team's support, collaboration, and encouragement to be creative have enhanced my skills. Work flexibility allows for a free flow of ideas. The humble team leaders inspire us to make a lasting impact while working for a meaningful social cause.
 
                                             </div>
@@ -823,12 +823,12 @@
                                     </div>
 
                                 </div>
-                                <div class="md:mt-32 mt-48">
+                                <div class="md:mt-32 mt-[350px]">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
                                             <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Shraddha.jpg" />
                                         </div>
-                                        <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
+                                        <div class="text-white text-xs lg:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
                                                 Shraddha Kakadiya
                                             </div>
@@ -871,8 +871,8 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
-                                                I'm thrilled to be part of this prestigious organization with an amazing concept. The humble team leaders and flexible work environment foster continuous learning. The thoughtful concept of the organization and the great team coordination make it a recipe for success. Wishing continued success to this remarkable team!
+                                            <div class="md:leading-loose text-justify text-xs md:text-xs lg:text-md xl:text-lg  md:h-40 flex items-center p-1 ">
+                                                I'm thrilled to be part of this prestigious organization with an amazing concept.The thoughtful concept of the organization and the great team coordination make it a recipe for success. Wishing continued success to this remarkable team!
 
 
                                             </div>
@@ -907,12 +907,12 @@
                                     </div>
 
                                 </div>
-                                <div class="md:mt-32 mt-48">
+                                <div class="md:mt-32 mt-[350px]">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
                                             <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Sushmitha.jpeg" />
                                         </div>
-                                        <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
+                                        <div class="text-white text-xs lg:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
                                                 Sushmitha Prakash
                                             </div>
@@ -955,7 +955,7 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-xs lg:text-md xl:text-lg  md:h-40 flex items-center p-1 ">
                                                 I feel incredibly fortunate to be part of Empower Bharat, a great initiative for empowering Bharat. My internship has been an enjoyable and invaluable experience. Working under a dedicated leader and alongside a talented and cooperative team has been inspiring. I'm grateful for this opportunity and everything I've learned.
                                             </div>
 
@@ -989,12 +989,12 @@
                                     </div>
 
                                 </div>
-                                <div class="md:mt-32 mt-48">
+                                <div class="md:mt-32 mt-[350px]">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
                                             <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Ajay Chhapola.jpg" />
                                         </div>
-                                        <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
+                                        <div class="text-white text-xs lg:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
                                                 Ajay Chhapola
                                             </div>
@@ -1037,7 +1037,7 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-xs lg:text-md xl:text-lg  md:h-40 flex items-center p-1 ">
                                                 This internship has been a journey of accomplishments. I developed strong teamwork and communication skills. The connections made have been invaluable. I extend my gratitude to the initiative leader and the entire design team for their support. The online meetings were refreshing and enjoyable. Thank you!
 
                                             </div>
@@ -1072,12 +1072,12 @@
                                     </div>
 
                                 </div>
-                                <div class="md:mt-32 mt-48">
+                                <div class="md:mt-32 mt-[350px]">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
                                             <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Omprakash.jpg" />
                                         </div>
-                                        <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
+                                        <div class="text-white text-xs lg:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
                                                 Omprakash Kuldeep
                                             </div>
@@ -1120,7 +1120,7 @@
                                                     </g>
                                                 </svg>
                                             </div>
-                                            <div class="md:leading-loose text-justify text-xs md:text-lg md:text-xl md:h-40 flex items-center p-1 ">
+                                            <div class="md:leading-loose text-justify text-xs md:text-xs lg:text-md xl:text-lg  md:h-40 flex items-center p-1 ">
                                                 For me, working with Team Empower Bharat is not just an internship or earning opportunity; it's about being part of a dedicated team. Their agenda to uplift education in rural India resonates deeply. Working under a great leader as a developer is a true achievement. Grateful for this opportunity.
 
                                             </div>
@@ -1155,12 +1155,12 @@
                                     </div>
 
                                 </div>
-                                <div class="md:mt-32 mt-48">
+                                <div class="md:mt-32 mt-[350px]">
                                     <div class="flex md:w-1/2 justify-center mx-auto">
                                         <div>
                                             <img class="md:w-24 md:h-24 w-12 h-12 ring-2 ring-green-800 rounded-full" src="images/empowerers/Harpreet Singh.jpg" />
                                         </div>
-                                        <div class="text-white text-xs md:text-lg ml-6 flex flex-col justify-evenly">
+                                        <div class="text-white text-xs lg:text-lg ml-6 flex flex-col justify-evenly">
                                             <div class="text-green-800 font-bold">
                                                 Harpreet Singh
                                             </div>
