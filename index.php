@@ -266,36 +266,35 @@
 
             <div class="flex w-full mb-6 justify-center">
                 <div class="grid md:grid-cols-4 grid-cols-2 gap-4 w-4/5">
-                    <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
-                        <div class="md:m-6 m-2 flex md:h-64 justify-center items-center">
-                            <img src="images/join/Sponsers.jpg" class="h-36 md:h-48 md:w-48" />
-
+                    <div class="bg-white rounded-lg md:h-52 lg:h-72  h-40 border border-2 border-green-800  flex flex-col items-center justify-between">
+                        <div class="md:m-6 m-2 flex md:h-36 lg:h-64 justify-center items-center">
+                            <img src="images/join/Sponsers.jpg" class="h-24 md:h-28 lg:h-40" />
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
                             <a href="#" class="tracking-widest uppercase">Sponser</a>
                         </div>
                     </div>
-                    <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
-                        <div class="md:m-6 m-2 flex md:h-64 justify-center items-center">
-                            <img src="images/join/partner.jpg" class="h-36 md:h-48 md:w-48" />
+                    <div class="bg-white rounded-lg md:h-52 lg:h-72 h-40 border border-2 border-green-800  flex flex-col items-center justify-between">
+                        <div class="md:m-6 m-2 flex md:h-36 lg:h-64  justify-center items-center">
+                            <img src="images/join/partner.jpg" class="h-24 md:h-28 lg:h-40" />
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
                             <a href="#" class="tracking-widest uppercase">Partner</a>
                         </div>
                     </div>
-                    <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
-                        <div class="md:m-6 m-2 flex md:h-64 justify-center items-center">
-                            <img src="images/join/employee.jpg" class="h-36 md:h-48 md:w-48" />
+                    <div class="bg-white rounded-lg md:h-52 lg:h-72 h-40 border border-2 border-green-800  flex flex-col items-center justify-between">
+                        <div class="md:m-6 m-2 flex md:h-36 lg:h-64 justify-center items-center">
+                            <img src="images/join/employee.jpg" class="h-24 md:h-28 lg:h-40" />
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
                             <a href="#" class="tracking-widest uppercase">Employee</a>
                         </div>
                     </div>
-                    <div class="bg-white rounded-lg md:h-72 h-52 border border-2 border-green-800  flex flex-col items-center justify-between">
-                        <div class="md:m-6 m-2 flex md:h-64 justify-center items-center">
-                            <img src="images/join/intern.jpg" class="h-36 md:h-48 md:w-48" />
+                    <div class="bg-white rounded-lg md:h-52 lg:h-72 h-40 border border-2 border-green-800  flex flex-col items-center justify-between">
+                        <div class="md:m-6 m-2 flex md:h-36 lg:h-64 justify-center items-center">
+                            <img src="images/join/intern.jpg" class="h-24 md:h-28 lg:h-40" />
 
                         </div>
                         <div class="bg-green-800 w-full p-2 text-xl text-white text-center font-bold">
