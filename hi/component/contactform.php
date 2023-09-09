@@ -36,9 +36,9 @@
                  </div>
 
                  <div class="bg-[#255F4C] mb-5 rounded-lg p-2 text-white">
-                     <div class="font-semibold pb-2">Address:</div>
+                     <div class="font-semibold pb-2">पता:</div>
                      <div class="leading-loose">
-                         पता: पंजीकृत कार्यालय: 36, हरसिद्धि नगर, बमरोली रोड, पांडेसरा, सूरत,
+                          पंजीकृत कार्यालय: 36, हरसिद्धि नगर, बमरोली रोड, पांडेसरा, सूरत,
                          <div>गुजरात- 394221 (भारत)</div>
                      </div>
 
@@ -95,7 +95,7 @@
                      </div>
                      <a href="https://wa.me/919586012231">
                          <div class="p-3 ml-2 text-white bg-[#255F4C] rounded-lg flex items-center justify-center">
-                             Chat With Us
+                         चैट करें
                          </div>
                      </a>
                  </div>

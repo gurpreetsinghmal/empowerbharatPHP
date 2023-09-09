@@ -19,9 +19,9 @@
         <div class="relative h-48 overflow-hidden md:h-[850px]">
             <!-- Item 1 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <a target="_blank" href="https://forms.gle/4L2kX7tyU1Nh34Ux7">
-                <img src="../images/slider/1.png" class="object-fill absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
-            </a>
+                <a target="_blank" href="https://forms.gle/4L2kX7tyU1Nh34Ux7">
+                    <img src="../images/slider/1.png" class="object-fill absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                </a>
             </div>
             <!-- Item 2 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
@@ -53,9 +53,9 @@
 
             <!-- Item 7 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-            <a target="_blank" href="https://drive.google.com/drive/folders/1IoDp7-ijUhKVKE1JOnMn-CslgmQD7txm?usp=sharing">
-                <img src="../images/slider/7.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
-            </a>
+                <a target="_blank" href="https://drive.google.com/drive/folders/1IoDp7-ijUhKVKE1JOnMn-CslgmQD7txm?usp=sharing">
+                    <img src="../images/slider/7.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
+                </a>
             </div>
 
             <!-- Item 8 -->
@@ -117,10 +117,10 @@
                     <iframe class="float-right ml-8 mt-3 w-full h-72 md:w-1/2 md:h-[450px] border border-gray-200 rounded-lg " src="https://www.youtube.com/embed/ryFybCODyyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen>
 
                     </iframe>
-                    एम्पावर भारत - ग्रामीण भारत को पुनर्जीवित करने के लिए एक पहल है, जिसे "भारत के 75वें स्वतंत्रता दिवस" पर शुरू किया गया था। इसका उद्देश्य ग्रामीण-शहरी आर्थिक अंतर को मूल स्तर पर कम करना, बच्चों के लिए गुणवत्ता युक्त शिक्षा प्रदान करना और रोजगार पाने के लिए संघर्ष कर रहें युवाओं  के लिए रोजगार पैदा कर उन्हें स्वावलंबी बनाना है। हमारा मॉडल, विकास की राह में मूल समस्याओं को एक व्यावहारिक और सतत प्रक्रिया के माध्यम से समाधान करने के लिए डिज़ाइन किया गया है। बच्चों के लिए गुणवत्तापूर्ण शिक्षा को सुनिश्चित करने के लिए हम ई-ट्यूटोरियल ऐप्स और पुस्तकें प्रदान करने के साथ-साथ छोटे शहरों और गांवों में स्मार्ट और अद्भुत शिक्षा केंद्र स्थापित करेंगे।
-हमारे यहां प्रशिक्षित एवं प्रेरित युवाओं को रोजगार दिया जाएगा। बड़े पैमाने पर बेरोजगारी के तत्काल  समाधान के लिए हमारे "JOB U WANT" पोर्टल पर सभी सरकारी नौकरी की रिक्तियों के अलर्ट के साथ ही परीक्षा रणनीतियों और कौशल विकास कार्यक्रम मुफ़्त में प्रदान किए जाएंगे। 
-अंततः हम सुरक्षा प्रशिक्षण, कौशल विकास वर्कशॉप और सबसे महत्वपूर्ण रूप से हमारे  "STREE सेफ़्टी पॉडकास्ट" के माध्यम से महिलाओं के लिए एक सुरक्षित और स्वतंत्र माहौल की कल्पना करते हैं। "एम्पावर भारत" के साथ, हम संयुक्त सशक्त भारत बनाने का लक्ष्य रखते हैं।
-    
+                    एम्पावर भारत - ग्रामीण भारत को पुनर्जीवित करने के लिए एक पहल है, जिसे "भारत के 75वें स्वतंत्रता दिवस" पर शुरू किया गया था। इसका उद्देश्य ग्रामीण-शहरी आर्थिक अंतर को मूल स्तर पर कम करना, बच्चों के लिए गुणवत्ता युक्त शिक्षा प्रदान करना और रोजगार पाने के लिए संघर्ष कर रहें युवाओं के लिए रोजगार पैदा कर उन्हें स्वावलंबी बनाना है। हमारा मॉडल, विकास की राह में मूल समस्याओं को एक व्यावहारिक और सतत प्रक्रिया के माध्यम से समाधान करने के लिए डिज़ाइन किया गया है। बच्चों के लिए गुणवत्तापूर्ण शिक्षा को सुनिश्चित करने के लिए हम ई-ट्यूटोरियल ऐप्स और पुस्तकें प्रदान करने के साथ-साथ छोटे शहरों और गांवों में स्मार्ट और अद्भुत शिक्षा केंद्र स्थापित करेंगे।
+                    हमारे यहां प्रशिक्षित एवं प्रेरित युवाओं को रोजगार दिया जाएगा। बड़े पैमाने पर बेरोजगारी के तत्काल समाधान के लिए हमारे "JOB U WANT" पोर्टल पर सभी सरकारी नौकरी की रिक्तियों के अलर्ट के साथ ही परीक्षा रणनीतियों और कौशल विकास कार्यक्रम मुफ़्त में प्रदान किए जाएंगे।
+                    अंततः हम सुरक्षा प्रशिक्षण, कौशल विकास वर्कशॉप और सबसे महत्वपूर्ण रूप से हमारे "STREE सेफ़्टी पॉडकास्ट" के माध्यम से महिलाओं के लिए एक सुरक्षित और स्वतंत्र माहौल की कल्पना करते हैं। "एम्पावर भारत" के साथ, हम संयुक्त सशक्त भारत बनाने का लक्ष्य रखते हैं।
+
                 </div>
 
                 <!-- <div class="md:w-1/2 w-full md:flex justify-end md:ml-20 ">
@@ -140,7 +140,7 @@
     <div>
         <div class="container mx-auto p-4">
             <div class="mb-5">
-                <div class="text-4xl md:text-left text-center tracking-wider">Did You Know</div>
+                <div class="text-4xl md:text-left text-center tracking-wider">क्या आप जानते है?</div>
                 <div class="flex md:justify-start justify-center ">
                     <div class="flex w-72">
                         <span class="h-1 w-1/3" style="background:#255F4C;"></span>
@@ -190,10 +190,10 @@
                             SUTRA for Kids
                         </div>
                         <div class="text-center text-xl font-light text-gray-500 p-4 mb-6">
-                            With Smart and Unique Teaching in Rural Areas (SUTRA), our team plans to bridge the gap.
+                        ग्रामीण क्षेत्रों में स्मार्ट और अद्वितीय शिक्षण के साथ ( SUTRA ), हमारी टीम ने अंतर को पाटने की योजना बनाई है.
                         </div>
                         <div class="text-green-800 text-center p-4 font-bold">
-                            <a target="_blank" href="https://m.youtube.com/watch?v=g_VKoYCIeQk">See more ></a>
+                            <a target="_blank" href="https://m.youtube.com/watch?v=g_VKoYCIeQk">और देखें  ></a>
                         </div>
                     </div>
 
@@ -207,11 +207,11 @@
                             JOB U WANT
                         </div>
                         <div class="text-center text-xl font-light text-gray-500 p-4 mb-6">
-                            A curated one-stop platform for youth to keep them posted with free alerts of all the jobs.
+                        युवाओं के लिए एक वन-स्टॉप प्लेटफॉर्म है जो उन्हें सभी नौकरियों के मुफ्त अलर्ट के साथ पोस्ट करता है.
                         </div>
                         <div class="text-green-800 text-center p-4 font-bold">
                             <a target="_blank" href="https://youtube.com/playlist?list=PLjhA2yPw10ZIC3Oy-cjaWXng7tjRjlWB7">
-                                See more ></a>
+                            और देखें  ></a>
                         </div>
                     </div>
 
@@ -225,11 +225,10 @@
                             STREE Safety
                         </div>
                         <div class="text-center text-xl font-light text-gray-500 p-4 mb-6">
-                            To promote self-dependance initiated STREE - Safety Training for Rural Equality and
-                            Empowerment
+                        स्व-निर्भरता को बढ़ावा देने के लिए STREE - ग्रामीण समानता के लिए सुरक्षा प्रशिक्षण और अधिकारिता
                         </div>
                         <div class="text-green-800 text-center p-4 font-bold">
-                            <a target="_blank" href="https://streesafety.com">See more ></a>
+                            <a target="_blank" href="https://streesafety.com">और देखें  ></a>
                         </div>
                     </div>
 
@@ -324,7 +323,7 @@
             </div>
 
             <div class="tracking-widest w-4/5 mb-6 md:text-left text-center mx-auto text-green-800 font-bold md:text-2xl text-xl">
-            क्या कहते है हमारे बारे 
+                क्या कहते है हमारे बारे
             </div>
 
             <div class="h-96 md:w-4/5 mb-6 rounded-lg mx-auto" style="background: #7AC3A3;">
@@ -1214,32 +1213,32 @@
             <div class="tracking-widest text-xl flex-wrap mb-6 flex items-center justify-center text-green-800 font-bold">
 
                 <div class="md:w-1/3 w-1/2 mb-3">
-                    <div class="text-center font-thin p-4">NGO Partner</div>
+                    <div class="text-center font-thin p-4">एनजीओ पार्टनर</div>
                     <div class=" flex justify-center items-center">
 
                         <img class="h-24" src="../images/partner/Shishti Anant Logo.png" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
-                    <div class="text-center font-thin p-4">Technical Partner</div>
+                    <div class="text-center font-thin p-4">तकनीकी पार्टनर</div>
                     <div class=" flex justify-center items-center">
                         <img class="h-24" src="../images/partner/Technominds.jpg" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
-                    <div class="text-center font-thin p-4">Corporate Partner</div>
+                    <div class="text-center font-thin p-4">समष्टिगत पार्टनर</div>
                     <div class=" flex justify-center items-center">
                         <img class="h-24" src="../images/partner/LOCAL-WALE-LOGO-3.jpg" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
-                    <div class="text-center font-thin p-4">Social Partner</div>
+                    <div class="text-center font-thin p-4">सामाजिक पार्टनर</div>
                     <div class=" flex justify-center items-center">
                         <img class="h-24" src="../images/partner/nss_iitr_logo new.png" />
                     </div>
                 </div>
                 <div class="md:w-1/3 w-1/2 mb-3">
-                    <div class="text-center font-thin p-2">College Festival Partner</div>
+                    <div class="text-center font-thin p-2">कॉलेज महोत्सव पार्टनर</div>
                     <div class=" flex justify-center items-center">
                         <img class="h-24" src="../images/partner/Summit_23 logo.png" />
                     </div>
