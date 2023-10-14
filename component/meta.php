@@ -39,4 +39,8 @@
     border-radius: 10px;
     border: 3px solid #fff;
   }
+  @font-face {
+            font-family: KrutiDev;
+            src: url(fonts/marathi/k010/k010.woff);
+        }
 </style>
