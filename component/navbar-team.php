@@ -76,7 +76,7 @@
           <a href="team.php" class="block py-2 pl-3 pr-4 text-white font-bold bg-green-700 rounded md:bg-transparent md:text-green-700 md:p-0 " aria-current="page">Team</a>
         </li>
         <li>
-          <a class="bg-green-700 rounded-md text-white p-1" href="hi/team.php">Hi</a>
+          <a class="bg-green-700 rounded-md text-white p-1" href="hi/team.php">हिंदी</a>
         </li>
       </ul>
     </div>
